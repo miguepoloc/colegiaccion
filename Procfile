@@ -1,0 +1,1 @@
+web: gunicorn colegiaccion.wsgi --log-file -
