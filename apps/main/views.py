@@ -11,8 +11,5 @@ def bachilleratos(request):
 def galeria(request):
     return render(request, 'main/galeria.html')
 
-def institucion(request):
-    return render(request, 'main/institucion.html')
-
 def secretaria(request):
     return render(request, 'main/secretaria.html')

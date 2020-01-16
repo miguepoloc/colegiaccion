@@ -6,31 +6,39 @@
 <section class="full-reset" style="background-color: #fff; padding: 20px 0;">
 	<div class="container">
 		<div class="row">
-			<section class="col-xs-12 col-sm-8 col-md-9 info-section-ins">
+			<section class="col-12 col-md-8 col-lg-9 info-section-ins">
 				<!--======================================== Mision y vision ========================================-->
 				<article class="full-reset" id="mision-vision">
 					<div class="page-header" style="margin-bottom:40px;">
 						<h1><i class="fa fa-graduation-cap"></i> &nbsp; Misión y Vision</h1>
 					</div>
 					<br><br>
-					<div class="panel panel-primary">
-						<div class="panel-heading lead text-center titles">Misión</div>
-						<div class="panel-body">
+					<div class="card text-white bg-secondary">
+						<div class="card-header lead text-center titles">Misión</div>
+					</div>
+					<div class="card text-black bg-white">
+						<div class="card-body">
 							<p class="lead text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat consequatur ducimus
-								provident, adipisci expedita possimus. Esse error obcaecati praesentium. Facere magni
-								nisi natus obcaecati culpa voluptatum nam tempore debitis voluptatem?
+								{% for data in datos_institucionales %}
+									{% if data.id == 1 %}
+										{{ data.texto }}
+									{% endif %}
+								{% endfor %}
 							</p>
 						</div>
 					</div>
 					<br><br>
-					<div class="panel panel-primary">
-						<div class="panel-heading lead text-center titles">Visión</div>
-						<div class="panel-body">
+					<div class="card text-white bg-secondary">
+						<div class="card-header lead text-center titles">Visión</div>
+					</div>
+					<div class="card text-black bg-white">
+						<div class="card-body">
 							<p class="lead text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum perspiciatis inventore
-								aut natus cupiditate magnam, ab rerum, molestias earum incidunt adipisci magni vel
-								saepe. Soluta repellendus fugiat optio cum, sed?
+								{% for data in datos_institucionales %}
+									{% if data.id == 2 %}
+										{{ data.texto }}
+									{% endif %}
+								{% endfor %}
 							</p>
 						</div>
 					</div>
@@ -40,7 +48,7 @@
 					<div class="page-header" style="margin-bottom:50px;">
 						<h1><i class="fa fa-university"></i> &nbsp; Reseña histórica</h1>
 					</div>
-					<h3 class="text-center titles text-uppercase">Antesedentes</h3>
+					<h3 class="text-center titles text-uppercase">Antecedentes</h3>
 					<p class="lead text-justify">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus laudantium officiis in,
 						aperiam exercitationem laborum maxime doloribus beatae iusto officia veritatis inventore minus
@@ -91,13 +99,17 @@
 					<br><br>
 					<h3 class="text-center titles"><i class="fa fa-map-marker"></i> &nbsp; Mapa de localización</h3>
 					<br>
-					<div id="mapa-ins"></div>
+					<div id="mapa-ins" class="embed-responsive embed-responsive-16by9 col-xs-12 text-center"><iframe
+							id="mapa-colegio"
+							src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.8146410648155!2d-74.17212399460473!3d11.227519187676274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef4f454cbc1ee15%3A0xa9d6006d25b1491d!2sColegio%20INEM%20Sim%C3%B3n%20Bol%C3%ADvar%2C%20Santa%20Marta%2C%20Magdalena!5e0!3m2!1ses!2sco!4v1579207267431!5m2!1ses!2sco"
+							width="500" height="500" frameborder="0" style="border:0;"></iframe>
+					</div>
 				</article>
 			</section>
 			<!--======================================== Navegacion fija lateral derecha ========================================-->
-			<nav class="hidden-xs scroll-navigation-ins">
+			<nav class="d-md-inline d-none scroll-navigation-ins">
 				<figure class="full-reset">
-					<img src="assets/img/logo.png" alt="Logo" class="img-responsive center-box">
+					<img src="{% static 'img/logo.png' %}" alt="Logo" class="img-fluid mx-auto d-block">
 				</figure>
 				<h4 class="text-center titles">Información de la institución</h4>
 				<ul class="list-unstyled full-reset">
