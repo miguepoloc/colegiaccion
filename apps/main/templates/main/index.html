@@ -8,7 +8,7 @@
 		<div class="full-reset" style="height: 100%; background-color: rgba(255,255,255,.6); padding: 60px 0;">
 			<h1 class="text-center titles">Colegio INEM Simón Bolívar</h1>
 			<figure class="Logo-Ins-Index">
-				<img src="{% static 'img/logo.png' %}" alt="Logo" class="img-responsive">
+				<img src="{% static 'img/logo.png' %}" alt="Logo" class="img-fluid mx-auto d-block">
 			</figure>
 			<p class="lead text-center">
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias repudiandae cumque dolorum mollitia
@@ -25,7 +25,7 @@
 		<br><br>
 		<!--======================================== Carrusel ========================================-->
 		<div class="row">
-			<div class="col-xs-12 col-sm-6 col-sm-push-6">
+			<div class="col-12 col-md-6 order-sm-2">
 				<h3 class="text-center titles">Fotos Instalaciones</h3>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias repudiandae cumque
 					dolorum mollitia tempora odit quam, rerum pariatur ipsa unde, delectus laborum aliquid
@@ -33,9 +33,9 @@
 					<a href="http://ins-sensunte.net/imagenes/espacio_ins/Flash01/index.html"
 						class="open-link-newTab">Has click aqui para ver las fotos</a>
 				</p>
-				<i class="fa fa-picture-o icon-index hidden-xs hidden-sm"></i>
+				<i class="fa fa-picture-o icon-index d-none d-lg-block"></i>
 			</div>
-			<div class="col-xs-12 col-sm-6 col-sm-pull-6">
+			<div class="col-12 col-md-6 order-sm-1">
 				<div id="slider-ins" class="carousel slide" data-ride="carousel">
 					<!-- Indicadores -->
 					<ol class="carousel-indicators">
@@ -43,36 +43,24 @@
 						<li data-target="#slider-ins" data-slide-to="1"></li>
 						<li data-target="#slider-ins" data-slide-to="2"></li>
 					</ol>
-
 					<!-- Imagenes -->
 					<div class="carousel-inner" role="listbox">
-
 						<!-- Primera imagen -->
-						<div class="item active">
+						<div class="item active carousel-item">
 							<img src="{% static 'img/default.png' %}" alt="Default">
-							<div class="carousel-caption">
-								Lorem ipsum dolor sit amet
-							</div>
+							<div class="carousel-caption">Lorem ipsum dolor sit amet</div>
 						</div>
-
 						<!-- Segunda imagen -->
-						<div class="item">
+						<div class="item carousel-item">
 							<img src="{% static 'img/default.png' %}" alt="Default">
-							<div class="carousel-caption">
-								Lorem ipsum dolor sit amet
-							</div>
+							<div class="carousel-caption">Lorem ipsum dolor sit amet</div>
 						</div>
-
 						<!-- Tercera imagen -->
-						<div class="item">
+						<div class="item carousel-item">
 							<img src="{% static 'img/default.png' %}" alt="Default">
-							<div class="carousel-caption">
-								Lorem ipsum dolor sit amet
-							</div>
+							<div class="carousel-caption">Lorem ipsum dolor sit amet</div>
 						</div>
-
 					</div>
-
 					<!-- Controles -->
 					<a class="left carousel-control" href="#slider-ins" role="button" data-slide="prev">
 						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -90,14 +78,14 @@
 		<br>
 		<!--======================================== Video ========================================-->
 		<div class="row">
-			<div class="col-xs-12 col-sm-6">
+			<div class="col-12 col-md-6">
 				<h3 class="text-center titles">Video Instalaciones</h3>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias repudiandae cumque
-					dolorum mollitia tempora odit quam, rerum pariatur ipsa unde, delectus laborum aliquid
-					voluptates, nihil sed iste minima quod doloribus.</p>
-				<i class="fa fa-film icon-index hidden-xs hidden-sm"></i>
+				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias repudiandae
+					cumque dolorum mollitia tempora odit quam, rerum pariatur ipsa unde, delectus
+					laborum aliquid voluptates, nihil sed iste minima quod doloribus.</p>
+				<i class="fa fa-film icon-index d-none d-lg-block"></i>
 			</div>
-			<div class="col-xs-12 col-sm-6">
+			<div class="col-12 col-md-6">
 				<video controls>
 					<source src="{% static 'img/Introl.mp4' %}" type="video/mp4">
 				</video>
@@ -113,9 +101,9 @@
 		<br><br>
 		<div class="row">
 			<!--======================================== Articulo 1 ========================================-->
-			<article class="col-xs-12 col-sm-6 col-md-4">
+			<article class="col-12 col-md-6 col-lg-4">
 				<div class="thumbnail">
-					<img src="{% static 'img/default.png' %}" alt="IMG" class="img-responsive img-rounded">
+					<img src="{% static 'img/default.png' %}" alt="IMG" class="img-fluid rounded">
 					<div class="caption">
 						<h3 class="text-center">Lorem ipsum dolor sit amet</h3>
 						<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -126,9 +114,9 @@
 				</div>
 			</article>
 			<!--======================================== Articulo 2 ========================================-->
-			<article class="col-xs-12 col-sm-6 col-md-4">
+			<article class="col-12 col-md-6 col-lg-4">
 				<div class="thumbnail">
-					<img src="{% static 'img/default.png' %}" alt="IMG" class="img-responsive img-rounded">
+					<img src="{% static 'img/default.png' %}" alt="IMG" class="img-fluid rounded">
 					<div class="caption">
 						<h3 class="text-center">Lorem ipsum dolor sit amet</h3>
 						<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -139,9 +127,9 @@
 				</div>
 			</article>
 			<!--======================================== Articulo 3 ========================================-->
-			<article class="col-xs-12 col-sm-6 col-md-4">
+			<article class="col-12 col-md-6 col-lg-4">
 				<div class="thumbnail">
-					<img src="{% static 'img/default.png' %}" alt="IMG" class="img-responsive img-rounded">
+					<img src="{% static 'img/default.png' %}" alt="IMG" class="img-fluid rounded">
 					<div class="caption">
 						<h3 class="text-center">Lorem ipsum dolor sit amet</h3>
 						<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit.

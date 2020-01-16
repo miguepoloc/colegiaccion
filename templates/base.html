@@ -12,9 +12,9 @@
     <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
-        window.jQuery || document.write('<script src="js/jquery-1.11.2.min.js"><\/script>')
+        window.jQuery || document.write('<script src="js/jquery-3.4.1.min.js"><\/script>')
     </script>
     <script src="{% static 'js/modernizr.js' %}"></script>
     <script src="{% static 'js/bootstrap.min.js' %}"></script>
@@ -28,8 +28,8 @@
     <header class="full-reset header">
         <!--======================================== Logo(Nombre INS) ========================================-->
         <div class="full-reset logo">
-            <span class="hidden-lg hidden-md">INEM</span>
-            <span class="hidden-xs hidden-sm">INEM Simón Bolívar</span>
+            <span class="d-md-none">INEM</span>
+            <span class="d-md-inline d-none">INEM Simón Bolívar</span>
         </div>
         <!--======================================== Links de navegación ========================================-->
         <nav class="full-reset navigation">
@@ -82,7 +82,7 @@
             <i class="fa fa-times-circle btm-mega-menu close-mega-menu fa-2x"></i>
         </div>
         <!--======================================== Boton menu mobil ========================================-->
-        <a href="#" class=" hidden-sm hidden-md hidden-lg pull-right button-menu-mobile show-close-menu-m"><i
+        <a href="#" class="hidden-sm float-right button-menu-mobile show-close-menu-m d-md-none d-block"><i
                 class="fa fa-ellipsis-v"></i></a>
     </header>
     {% block content %}
@@ -91,15 +91,15 @@
         <div class="full-reset" style="padding: 15px 0;">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-4">
+                    <div class="col-12 col-md-4">
                         <h4 class="titles text-center">Visitenos en</h4>
                         <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     </div>
-                    <div class="col-xs-12 col-sm-4">
+                    <div class="col-12 col-md-4">
                         <h4 class="titles text-center">Contactenos</h4>
                         <p class="text-center">Tele-Fax: +(000)0000-0000 <br>Correo Electrónico: correo@hotmail.com</p>
                     </div>
-                    <div class="col-xs-12 col-sm-4">
+                    <div class="col-12 col-md-4">
                         <h4 class="titles subtitles-footer">Siguenos en</h4>
                         <ul class="list-unstyled links-footer">
                             <li><a href="#!" class="open-link-newTab"><i class="fa fa-facebook"></i> &nbsp; Facebook</a>
@@ -110,9 +110,8 @@
                                     Google+</a></li>
                         </ul>
                     </div>
-                    <div class="col-xs-12">
-                        <div class="full-reset footer-copyright"><i class="fa fa-copyright"></i> 2016 Carlos Alfaro
-                        </div>
+                    <div class="col-12">
+                        <div class="full-reset footer-copyright"><i class="fa fa-copyright"></i> 2020 Miguel Polo</div>
                     </div>
                 </div>
             </div>

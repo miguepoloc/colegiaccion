@@ -13,7 +13,7 @@ body {
     position: relative;
 }
 
-#fondo{
+#fondo {
     background: white url("img/font-index.jpg") no-repeat;
 }
 
@@ -78,6 +78,35 @@ video {
     vertical-align: middle;
 }
 
+
+/*************** Carousel ***************/
+.carousel-inner>.item>img {
+    max-width: 100%;
+}
+
+
+/*************** Grupo de imagenes ***************/
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+.thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 /*************** Estilos del header y nav ***************/
 .header {
     background-color: #00796b;
@@ -93,7 +122,7 @@ video {
     text-align: center;
     font-size: 24px;
     font-family: 'Fjalla One', sans-serif;
-    width: 15%;
+    width: 35%;
     position: absolute;
     top: 0;
     left: 0;
