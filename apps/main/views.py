@@ -3,4 +3,16 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("La primera app de prueba")
+    return render(request, 'main/index.html')
+
+def bachilleratos(request):
+    return render(request, 'main/bachilleratos.html')
+
+def galeria(request):
+    return render(request, 'main/galeria.html')
+
+def institucion(request):
+    return render(request, 'main/institucion.html')
+
+def secretaria(request):
+    return render(request, 'main/secretaria.html')
