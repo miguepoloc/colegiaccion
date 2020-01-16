@@ -1,6 +1,13 @@
 /*=======================================================================================================
 =                                              Estilos generales                                        =
 ========================================================================================================*/
+/*  Rojo: #D92624
+    Amarillo: #F1E900
+    Verde: #008345
+    Azul: #291F74
+    Naranja: #FFA727
+*/
+
 html,
 body {
     height: 100%;
@@ -54,8 +61,7 @@ video {
     background: transparent;
     width: 29px;
     height: auto;
-    color: #00897B;
-    ;
+    color: #008345;
     line-height: 25px;
     font-size: 30px;
     text-align: center;
@@ -70,12 +76,19 @@ video {
     height: 1px;
     margin: 0;
     padding: 0;
-    background-color: #EFCDCD;
+    background-color: #291F74;
 }
 
 .table>tbody>tr>td,
 .table>thead>tr>th {
     vertical-align: middle;
+}
+
+
+/*************** Boton de subir ***************/
+.fa-arrow-circle-up:before {
+    content: "\f0aa";
+    color: #291F74;
 }
 
 
@@ -109,7 +122,7 @@ video {
 
 /*************** Estilos del header y nav ***************/
 .header {
-    background-color: #00796b;
+    background-color: #008345;
     height: 50px;
     color: #fff;
     position: relative;
@@ -174,7 +187,7 @@ video {
 }
 
 .navigation ul li a:hover {
-    color: #F0F4C3;
+    color: #F1E900;
     text-decoration: none;
 }
 
@@ -202,7 +215,7 @@ video {
     position: absolute;
     top: 50px;
     left: 0;
-    background-color: rgba(0, 121, 107, .97);
+    background-color: rgba(0, 131, 69, .97);
     color: #fff;
     z-index: 99999;
     border-top: 1px solid rgba(255, 255, 255, .5);
@@ -213,7 +226,8 @@ video {
 }
 
 .mega-menu span {
-    color: #F0F4C3;
+    color: #FFA727;
+    font-weight: bold;
 }
 
 .mega-menu ul {
@@ -231,6 +245,11 @@ video {
     width: 100%;
 }
 
+.btm-mega-menu a:hover {
+    color: #F1E900;
+    text-decoration: none;
+}
+
 .mega-menu ul li a {
     color: #fff;
     -moz-transition: .3s all ease-in-out;
@@ -241,7 +260,7 @@ video {
 
 .mega-menu ul li a:hover {
     text-decoration: none;
-    color: #FFA726;
+    color: #F1E900;
 }
 
 .mega-menu ul li a:active,
@@ -268,7 +287,7 @@ video {
 .footer {
     clear: both;
     color: #fff;
-    background-color: #00796b;
+    background-color: #008345;
     position: relative;
     height: auto;
 }
@@ -290,7 +309,7 @@ video {
 }
 
 .links-footer li a:hover {
-    color: #FFCA28;
+    color: #F1E900;
     text-decoration: none;
 }
 
@@ -298,7 +317,7 @@ video {
 .links-footer li a:focus {
     outline: none;
     text-decoration: none;
-    color: #FFCA28;
+    color: #F1E900;
 }
 
 /*=======================================================================================================
@@ -346,8 +365,8 @@ video {
 
 .important-links-index a:hover {
     text-decoration: none;
-    background-color: #2E7D32;
-    border: 1px solid #F57C00;
+    background-color: #008345;
+    border: 1px solid #FFA727;
     transform: scale(1.2);
     -moz-transform: scale(1.2);
     -ms-transform: scale(1.2);
@@ -539,7 +558,7 @@ video {
         width: 100%;
         position: absolute;
         top: 50px;
-        background-color: #00796b;
+        background-color: #008345;
         border-top: 1px solid rgba(255, 255, 255, .2);
         pointer-events: none;
         opacity: 0;
