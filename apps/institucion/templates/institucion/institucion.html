@@ -19,11 +19,17 @@
 					<div class="card text-black bg-white">
 						<div class="card-body">
 							<p class="lead text-justify">
+								{% if datos_institucionales|length > 0 %}
 								{% for data in datos_institucionales %}
-									{% if data.id == 1 %}
-										{{ data.texto }}
-									{% endif %}
+								{% if data.id == 1 %}
+								{{ data.texto }}
+								{% else %}
+								Faltan datos
+								{% endif %}
 								{% endfor %}
+								{% else %}
+								Faltan datos
+								{% endif %}
 							</p>
 						</div>
 					</div>
@@ -34,11 +40,17 @@
 					<div class="card text-black bg-white">
 						<div class="card-body">
 							<p class="lead text-justify">
+								{% if datos_institucionales|length > 0 %}
 								{% for data in datos_institucionales %}
-									{% if data.id == 2 %}
-										{{ data.texto }}
-									{% endif %}
+								{% if data.id == 2 %}
+								{{ data.texto }}
+								{% else %}
+								Faltan datos
+								{% endif %}
 								{% endfor %}
+								{% else %}
+								Faltan datos
+								{% endif %}
 							</p>
 						</div>
 					</div>

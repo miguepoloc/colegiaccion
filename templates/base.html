@@ -50,8 +50,8 @@
                         <ul class="list-unstyled full-reset">
                             <li><a href="#!" class="open-link-newTab"><i class="fa fa-search"></i>&nbsp; Buscar en
                                     GOOGLE</a></li>
-                            <li><a href="#!" class="open-link-newTab"><i class="fas fa-shapes"></i>&nbsp;
-                                    Plataforma (EducAccion)</a></li>
+                            <li><a href="{% url 'plan_de_accion' %}" class="open-link-newTab"><i class="fas fa-shapes"></i>&nbsp;
+                                    Plataforma (ColegiAccion)</a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-4">
@@ -85,7 +85,7 @@
                 class="fa fa-ellipsis-v"></i></a>
     </header>
     {% block content %}
-    {% endblock %}
+    {% endblock content %}
     <footer class="full-reset footer">
         <div class="full-reset" style="padding: 15px 0;">
             <div class="container">
@@ -116,4 +116,6 @@
             </div>
         </div>
     </footer>
+    {% block scripts %}
+    {% endblock scripts %}
 </body>
