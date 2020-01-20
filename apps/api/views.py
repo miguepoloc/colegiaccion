@@ -14,7 +14,7 @@ class UserViewSet(viewsets.ModelViewSet):
 
 class SemanaViewSet(viewsets.ModelViewSet):
     """
-    API endpoint that allows groups to be viewed or edited.
+    API endpoint de las semanas
     """
-    queryset = Semana.objects.all()
+    queryset = Semana.objects.all().order_by('id')
     serializer_class = SemanaSerializer
