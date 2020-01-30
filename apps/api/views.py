@@ -1,8 +1,8 @@
 from django.shortcuts import render
 from django.contrib.auth.models import User
 from rest_framework import viewsets
-from apps.api.serializers import UserSerializer, SemanaSerializer
-from apps.api.models import Semana
+from apps.api.serializers import UserSerializer, SemanaSerializer, EstandarSerializer
+from apps.api.models import Semana, Estandar
 
 class UserViewSet(viewsets.ModelViewSet):
     """
@@ -18,3 +18,11 @@ class SemanaViewSet(viewsets.ModelViewSet):
     """
     queryset = Semana.objects.all().order_by('id')
     serializer_class = SemanaSerializer
+
+
+class EstandarViewSet(viewsets.ModelViewSet):
+    """
+    API endpoint de los estandares
+    """
+    queryset = Estandar.objects.all()
+    serializer_class = EstandarSerializer
