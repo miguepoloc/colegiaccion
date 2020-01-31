@@ -125,6 +125,7 @@ $(document).ready(function () {
     });
 
     // Estandares
+    var objeto_mayor = new Object();;
     vector_materia = [];
     vector_mayor = [];
     var lista_estandares;
@@ -144,6 +145,7 @@ $(document).ready(function () {
             if (vector_materia.includes(materia_estandar) == false) {
                 // Se añade el id de muestra
                 vector_materia.push(materia_estandar);
+                objeto_mayor[materia_estandar] = [];
             }
             // Se realiza el mismo proceso anterior pero con el nombre de la variable
             estandar_mayor = String(lista_estandares[i]["estandar_mayor"]);
@@ -151,6 +153,14 @@ $(document).ready(function () {
                 vector_mayor.push(estandar_mayor);
             }
         }
+
+        for (i = 0; i < lista_estandares.length; i++) {
+            xestandar_mayor = String(lista_estandares[i]["estandar_mayor"]);
+            if (objeto_mayor[lista_estandares[i].materia].includes(xestandar_mayor) == false) {
+                objeto_mayor[lista_estandares[i].materia].push(xestandar_mayor);
+            }
+        }
+        console.log(objeto_mayor);
     });
 
     var html;
@@ -167,16 +177,17 @@ $(document).ready(function () {
         if (materia2.includes(String(grado_selecto))) {
             gradox = "4-5";
         }
-        console.log(area_selecta);
+        console.log(gradox);
         for (let index = 0; index < vector_materia.length; index++) {
             if (vector_materia[index] == area_selecta) {
-                for (let j = 0; j < vector_mayor.length; j++) {
+                for (let j = 0; j < objeto_mayor[area_selecta].length; j++) {
+                    console.log(objeto_mayor[area_selecta][j]);
                     html += '<legend class="col-form-label col-sm-3 pt-0">'
-                    html += vector_mayor[j];
+                    html += objeto_mayor[area_selecta][j];
                     html += '</legend>';
                     html += '<div class="col-sm-9">';
                     for (let q = 0; q < lista_estandares.length; q++) {
-                        if (lista_estandares[q]["estandar_mayor"] == vector_mayor[j]) {
+                        if (lista_estandares[q]["estandar_mayor"] == objeto_mayor[area_selecta][j]) {
                             if (lista_estandares[q]["rango_grado"] == gradox) {
                                 if (lista_estandares[q]["materia"] == area_selecta) {
                                     html += '<div class="form-check"><input class="form-check-input" type="checkbox" id="gridCheck1">';
@@ -184,7 +195,7 @@ $(document).ready(function () {
                                     html += lista_estandares[q]["estandar_menor"];
                                     html += '</label></div>';
                                     $("#testeando").html(html);
-                                    console.log(vector_mayor[j]);
+                                    console.log(vector_materia[index]);
                                 }
                             }
                         }

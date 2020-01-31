@@ -1,8 +1,8 @@
 from django.shortcuts import render
 from django.contrib.auth.models import User
 from rest_framework import viewsets
-from apps.api.serializers import UserSerializer, SemanaSerializer, EstandarSerializer
-from apps.api.models import Semana, Estandar
+from apps.api.serializers import UserSerializer, SemanaSerializer, EstandarSerializer, DBASerializer
+from apps.api.models import Semana, Estandar, DBA
 
 class UserViewSet(viewsets.ModelViewSet):
     """
@@ -26,3 +26,11 @@ class EstandarViewSet(viewsets.ModelViewSet):
     """
     queryset = Estandar.objects.all()
     serializer_class = EstandarSerializer
+
+
+class DBAViewSet(viewsets.ModelViewSet):
+    """
+    API endpoint de los DBA
+    """
+    queryset = DBA.objects.all()
+    serializer_class = DBASerializer
