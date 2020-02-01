@@ -24,4 +24,4 @@ class EstandarSerializer(serializers.HyperlinkedModelSerializer):
 class DBASerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = DBA
-        fields = ['materia', 'grado', 'estandar_mayor', 'estandar_menor']
+        fields = ['materia', 'grado', 'dba_mayor', 'dba_menor']
