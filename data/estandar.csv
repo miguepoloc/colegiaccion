@@ -1,111 +1,446 @@
-1,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Observo mi entorno. ,2020-01-25 17:59:38-05
-2,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,"Formulo preguntas sobre objetos, organismos y fen�menos de mi entorno y exploro posibles respuestas. ",2020-01-25 18:09:12.615079-05
-3,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Hago conjeturas para responder mis preguntas.,2020-01-25 18:09:36.94675-05
-4,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Dise�o y realizo experiencias para poner a prueba mis conjeturas. ,2020-01-25 18:09:49.893086-05
-5,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Identifico condiciones que influyen en los resultados de una experiencia. ,2020-01-25 18:10:01.774452-05
-6,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,"Realizo mediciones con instrumentos convencionales (regla, metro, term�metro, reloj, balanza...) y no convencionales (vasos, tazas, cuartas, pies, pasos...). ",2020-01-25 18:10:47.84349-05
-7,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,"Registro mis observaciones en forma organizada y rigurosa (sin alteraciones), utilizando dibujos, palabras y n�meros. ",2020-01-25 18:11:00.282171-05
-8,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,"Busco informaci�n en diversas fuentes (libros, Internet, experiencias propias y de otros...) y doy el cr�dito correspondiente.",2020-01-25 18:11:12.64371-05
-9,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Selecciono la informaci�n apropiada para dar respuesta a mis preguntas. ,2020-01-25 18:11:21.967689-05
-10,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,"Analizo, con la ayuda del profesor, si la informaci�n obtenida es suficiente para contestar mis preguntas. ",2020-01-25 18:11:29.857976-05
-11,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Persisto en la b�squeda de respuestas a mis preguntas. ,2020-01-25 18:11:39.022035-05
-12,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Propongo respuestas a mis preguntas y las comparo con las de otras personas. ,2020-01-25 18:11:46.870306-05
-13,Ciencias Naturales,1-3,Me aproximo al conocimiento como cient�fico-a natural,Comunico de diferentes maneras el proceso de indagaci�n y los resultados obtenidos.,2020-01-25 18:12:03.453072-05
-14,Ciencias Naturales,1-3,Entorno vivo,Establezco relaciones entre las funciones de los cinco sentidos. ,
-15,Ciencias Naturales,1-3,Entorno vivo,Describo mi cuerpo y el de mis compa�eros y compa�eras. ,
-16,Ciencias Naturales,1-3,Entorno vivo,"Describo caracter�sticas de seres vivos y objetos inertes, establezco semejanzas y diferencias entre ellos y los clasifico. ",
-17,Ciencias Naturales,1-3,Entorno vivo,Propongo y verifico necesidades de los seres vivos. ,
-18,Ciencias Naturales,1-3,Entorno vivo,Observo y describo cambios en mi desarrollo y en el de otros seres vivos. ,
-19,Ciencias Naturales,1-3,Entorno vivo,Describo y verifico ciclos de vida de seres vivos. ,
-20,Ciencias Naturales,1-3,Entorno vivo,Reconozco que los hijos y las hijas se parecen a sus padres y describo algunas caracter�sticas que se heredan. ,
-21,Ciencias Naturales,1-3,Entorno vivo,"Identifico y describo la flora, la fauna, el agua y el suelo de mi entorno. ",
-22,Ciencias Naturales,1-3,Entorno vivo,Explico adaptaciones de los seres vivos al ambiente. ,
-23,Ciencias Naturales,1-3,Entorno vivo,Comparo f�siles y seres vivos; identifico caracter�sticas que se mantienen en el tiempo. ,
-24,Ciencias Naturales,1-3,Entorno vivo,Identifico patrones comunes a los seres vivos.,
-25,Ciencias Naturales,1-3,Entorno f�sico,Describo y clasifico objetos seg�n caracter�sticas que percibo con los cinco sentidos. ,
-26,Ciencias Naturales,1-3,Entorno f�sico,Propongo y verifico diversas formas de medir s�lidos y l�quidos. ,
-27,Ciencias Naturales,1-3,Entorno f�sico,Establezco relaciones entre magnitudes y unidades de medida apropiadas. ,
-28,Ciencias Naturales,1-3,Entorno f�sico,"Identifico diferentes estados f�sicos de la materia (el agua, por ejemplo) y verifico causas para cambios de estado. ",
-29,Ciencias Naturales,1-3,Entorno f�sico,"Identifico y comparo fuentes de luz, calor y sonido y su efecto sobre diferentes seres vivos. ",
-30,Ciencias Naturales,1-3,Entorno f�sico,Identifico situaciones en las que ocurre transferencia de energ�a t�rmica y realizo experiencias para verificar el fen�meno. ,
-31,Ciencias Naturales,1-3,Entorno f�sico,"Clasifico luces seg�n color, intensidad y fuente. ",
-32,Ciencias Naturales,1-3,Entorno f�sico,"Clasifico sonidos seg�n tono, volumen y fuente. ",
-33,Ciencias Naturales,1-3,Entorno f�sico,Propongo experiencias para comprobar la propagaci�n de la luz y del sonido. ,
-34,Ciencias Naturales,1-3,Entorno f�sico,"Identifico tipos de movimiento en seres vivos y objetos, y las fuerzas que los producen. ",
-35,Ciencias Naturales,1-3,Entorno f�sico,Verifico las fuerzas a distancia generadas por imanes sobre diferentes objetos. ,
-36,Ciencias Naturales,1-3,Entorno f�sico,Construyo circuitos el�ctricos simples con pilas. ,
-37,Ciencias Naturales,1-3,Entorno f�sico,"Registro el movimiento del Sol, la Luna y las estrellas en el cielo, en un periodo de tiempo.",
-38,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Clasifico y comparo objetos seg�n sus usos. ,
-39,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Diferencio objetos naturales de objetos creados por el ser humano. ,
-40,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Identifico objetos que emitan luz o sonido. ,
-41,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Identifico circuitos el�ctricos en mi entorno. ,
-42,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Analizo la utilidad de algunos aparatos el�ctricos a mi alrededor. ,
-43,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Identifico aparatos que utilizamos hoy y que no se utilizaban en �pocas pasadas. ,
-44,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Asocio el clima con la forma de vida de diferentes comunidades. ,
-45,Ciencias Naturales,1-3,"Ciencia, tecnolog�a y sociedad",Identifico necesidades de cuidado de mi cuerpo y el de otras personas.,
-46,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Escucho activamente a mis compa�eros y compa�eras y reconozco puntos de vista diferentes. ,
-47,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Valoro y utilizo el conocimiento de diversas personas de mi entorno. ,
-48,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Cumplo mi funci�n y respeto la de otras personas en el trabajo en grupo. ,
-49,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,"Reconozco la importancia de animales, plantas, agua y suelo de mi entorno y propongo estrategias para cuidarlos. ",
-50,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Respeto y cuido los seres vivos y los objetos de mi entorno.,
-51,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Observo el mundo en el que vivo. ,
-52,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Formulo preguntas a partir de una observaci�n o experiencia y escojo algunas de ellas para buscar posibles respuestas. ,
-53,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Propongo explicaciones provisionales para responder mis preguntas. ,
-54,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Identifico condiciones que influyen en los resultados de una experiencia y que pueden permanecer constantes o cambiar (variables). ,
-55,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Dise�o y realizo experimentos modificando una sola variable para dar respuesta a preguntas. ,
-56,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,"Realizo mediciones con instrumentos convencionales (balanza, b�scula, cron�metro, term�metro...) y no convencionales (paso, cuarta, pie, braza, vaso...). ",
-57,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,"Registro mis observaciones, datos y resultados de manera organizada y rigurosa (sin alteraciones), en forma escrita y utilizando esquemas, gr�ficos y tablas. ",
-58,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,"Busco informaci�n en diversas fuentes (libros, Internet, experiencias y experimentos propios y de otros�) y doy el cr�dito correspondiente. ",
-59,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Establezco relaciones entre la informaci�n y los datos recopilados. ,
-60,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Selecciono la informaci�n que me permite responder a mis preguntas y determino si es suficiente. ,
-61,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,"Saco conclusiones de mis experimentos, aunque no obtenga los resultados esperados. ",
-62,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Propongo respuestas a mis preguntas y las comparo con las de otras personas. ,
-63,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,Persisto en la b�squeda de respuestas a mis preguntas. ,
-64,Ciencias Naturales,4-5,Me aproximo al conocimiento como cient�fico-a natural,"Comunico, oralmente y por escrito, el proceso de indagaci�n y los resultados que obtengo.",
-65,Ciencias Naturales,4-5,Entorno vivo,Explico la importancia de la c�lula como unidad b�sica de los seres vivos. ,
-66,Ciencias Naturales,4-5,Entorno vivo,Identifico los niveles de organizaci�n celular de los seres vivos. ,
-67,Ciencias Naturales,4-5,Entorno vivo,Identifico en mi entorno objetos que cumplen funciones similares a las de mis �rganos y sustento la comparaci�n. ,
-68,Ciencias Naturales,4-5,Entorno vivo,Represento los diversos sistemas de �rganos del ser humano y explico su funci�n. ,
-69,Ciencias Naturales,4-5,Entorno vivo,"Clasifico seres vivos en diversos grupos taxon�micos (plantas, animales, microorganismos�). ",
-70,Ciencias Naturales,4-5,Entorno vivo,"Indago acerca del tipo de fuerza (compresi�n, tensi�n o torsi�n) que puede fracturar diferentes tipos de huesos. ",
-71,Ciencias Naturales,4-5,Entorno vivo,Identifico m�quinas simples en el cuerpo de seres vivos y explico su funci�n. ,
-72,Ciencias Naturales,4-5,Entorno vivo,"Investigo y describo diversos tipos de neuronas, las comparo entre s� y con circuitos el�ctricos. ",
-73,Ciencias Naturales,4-5,Entorno vivo,Analizo el ecosistema que me rodea y lo comparo con otros. ,
-74,Ciencias Naturales,4-5,Entorno vivo,Identifico adaptaciones de los seres vivos teniendo en cuenta las caracter�sticas de los ecosistemas en que viven. ,
-75,Ciencias Naturales,4-5,Entorno vivo,Explico la din�mica de un ecosistema teniendo en cuenta las necesidades de energ�a y nutrientes de los seres vivos (cadena alimentaria). ,
-76,Ciencias Naturales,4-5,Entorno vivo,Identifico fen�menos de camuflaje en el entorno y los relaciono con las necesidades de los seres vivos.,
-77,Ciencias Naturales,4-5,Entorno f�sico,Describo y verifico el efecto de la transferencia de energ�a t�rmica en los cambios de estado de algunas sustancias. ,
-78,Ciencias Naturales,4-5,Entorno f�sico,"Verifico la posibilidad de mezclar diversos l�quidos, s�lidos y gases. ",
-79,Ciencias Naturales,4-5,Entorno f�sico,Propongo y verifico diferentes m�todos de separaci�n de mezclas. ,
-80,Ciencias Naturales,4-5,Entorno f�sico,Establezco relaciones entre objetos que tienen masas iguales y vol�menes diferentes o viceversa y su posibilidad de flotar. ,
-81,Ciencias Naturales,4-5,Entorno f�sico,Comparo movimientos y desplazamientos de seres vivos y objetos. ,
-82,Ciencias Naturales,4-5,Entorno f�sico,Relaciono el estado de reposo o movimiento de un objeto con las fuerzas aplicadas sobre �ste. ,
-83,Ciencias Naturales,4-5,Entorno f�sico,Describo fuerzas en m�quinas simples. ,
-84,Ciencias Naturales,4-5,Entorno f�sico,Verifico la conducci�n de electricidad o calor en materiales. ,
-85,Ciencias Naturales,4-5,Entorno f�sico,Identifico las funciones de los componentes de un circuito el�ctrico. ,
-86,Ciencias Naturales,4-5,Entorno f�sico,"Describo los principales elementos del sistema solar y establezco relaciones de tama�o, movimiento y posici�n. ",
-87,Ciencias Naturales,4-5,Entorno f�sico,Comparo el peso y la masa de un objeto en diferentes puntos del sistema solar. ,
-88,Ciencias Naturales,4-5,Entorno f�sico,Describo las caracter�sticas f�sicas de la Tierra y su atm�sfera. ,
-89,Ciencias Naturales,4-5,Entorno f�sico,Relaciono el movimiento de traslaci�n con los cambios clim�ticos. ,
-90,Ciencias Naturales,4-5,Entorno f�sico,"Establezco relaciones entre mareas, corrientes marinas, movimiento de placas tect�nicas, formas del paisaje y relieve, y las fuerzas que los generan.",
-91,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ",Identifico m�quinas simples en objetos cotidianos y describo su utilidad. ,
-92,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ",Construyo m�quinas simples para solucionar problemas cotidianos. ,
-93,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ","Identifico en la historia, situaciones en las que, en ausencia de motores potentes, se utilizaron m�quinas simples. ",
-94,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ",Analizo caracter�sticas ambientales de mi entorno y peligros que lo amenazan. ,
-95,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ","Establezco relaciones entre el efecto invernadero, la lluvia �cida y el debilitamiento de la capa de ozono con la contaminaci�n atmosf�rica. ",
-96,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ","Asocio el clima y otras caracter�sticas del entorno con los materiales de construcci�n, los aparatos el�ctricos m�s utilizados, los recursos naturales y las costumbres de diferentes comunidades. ",
-97,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ",Verifico que la cocci�n de alimentos genera cambios f�sicos y qu�micos. ,
-98,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ","Identifico y describo aparatos que generan energ�a luminosa, t�rmica y mec�nica. ",
-99,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ",Identifico y establezco las aplicaciones de los circuitos el�ctricos en el desarrollo tecnol�gico. ,
-100,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ",Establezco relaciones entre microorganismos y salud. ,
-101,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ","Reconozco los efectos nocivos del exceso en el consumo de cafe�na, tabaco, drogas y licores. ",
-102,Ciencias Naturales,4-5,"Ciencia, tecnolog�a y sociedad ",Establezco relaciones entre deporte y salud f�sica y mental.,
-103,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Escucho activamente a mis compa�eros y compa�eras, reconozco puntos de vista diferentes y los comparo con los m�os. ",
-104,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Reconozco y acepto el escepticismo de mis compa�eros y compa�eras ante la informaci�n que presento. ,
-105,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Valoro y utilizo el conocimiento de diferentes personas de mi entorno. ,
-106,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Cumplo mi funci�n cuando trabajo en grupo, respeto las funciones de otros y contribuyo a lograr productos comunes. ",
-107,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Identifico y acepto diferencias en las formas de vida y de pensar. ,
-108,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Reconozco y respeto mis semejanzas y diferencias con los dem�s en cuanto a g�nero, aspecto y limitaciones f�sicas. ",
-109,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Propongo alternativas para cuidar mi entorno y evitar peligros que lo amenazan. ,
-110,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Cuido, respeto y exijo respeto por mi cuerpo y el de las dem�s personas. ",
-111,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Respeto y cuido los seres vivos y los objetos de mi entorno.,
+1,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Observo mi entorno,2020-01-25 17:59:38-05
+2,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,"Formulo preguntas sobre objetos, organismos y fenómenos de mi entorno y exploro posibles respuestas.",2020-01-25 18:09:12.615079-05
+3,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Hago conjeturas para responder mis preguntas.,2020-01-25 18:09:36.94675-05
+4,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Diseño y realizo experiencias para poner a prueba mis conjeturas.,2020-01-25 18:09:49.893086-05
+5,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Identifico condiciones que influyen en los resultados de una experiencia.,2020-01-25 18:10:01.774452-05
+6,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,"Realizo mediciones con instrumentos convencionales (regla, metro, termómetro, reloj, balanza...) y no convencionales (vasos, tazas, cuartas, pies, pasos...).",2020-01-25 18:10:47.84349-05
+7,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,"Registro mis observaciones en forma organizada y rigurosa (sin alteraciones), utilizando dibujos, palabras y números.",2020-01-25 18:11:00.282171-05
+8,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,"Busco información en diversas fuentes (libros, Internet, experiencias propias y de otros...) y doy el crédito correspondiente.",2020-01-25 18:11:12.64371-05
+9,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Selecciono la información apropiada para dar respuesta a mis preguntas.,2020-01-25 18:11:21.967689-05
+10,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,"Analizo, con la ayuda del profesor, si la información obtenida es suficiente para contestar mis preguntas.",2020-01-25 18:11:29.857976-05
+11,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Persisto en la búsqueda de respuestas a mis preguntas.,2020-01-25 18:11:39.022035-05
+12,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Propongo respuestas a mis preguntas y las comparo con las de otras personas.,2020-01-25 18:11:46.870306-05
+13,Ciencias Naturales,1-3,Me aproximo al conocimiento como científico-a natural,Comunico de diferentes maneras el proceso de indagación y los resultados obtenidos.,2020-01-25 18:12:03.453072-05
+14,Ciencias Naturales,1-3,Entorno vivo,Establezco relaciones entre las funciones de los cinco sentidos. ,2020-01-25 18:12:03.453072-05
+15,Ciencias Naturales,1-3,Entorno vivo,Describo mi cuerpo y el de mis compañeros y compañeras. ,2020-01-25 18:12:03.453072-05
+16,Ciencias Naturales,1-3,Entorno vivo,"Describo características de seres vivos y objetos inertes, establezco semejanzas y diferencias entre ellos y los clasifico. ",2020-01-25 18:12:03.453072-05
+17,Ciencias Naturales,1-3,Entorno vivo,Propongo y verifico necesidades de los seres vivos. ,2020-01-25 18:12:03.453072-05
+18,Ciencias Naturales,1-3,Entorno vivo,Observo y describo cambios en mi desarrollo y en el de otros seres vivos. ,2020-01-25 18:12:03.453072-05
+19,Ciencias Naturales,1-3,Entorno vivo,Describo y verifico ciclos de vida de seres vivos. ,2020-01-25 18:12:03.453072-05
+20,Ciencias Naturales,1-3,Entorno vivo,Reconozco que los hijos y las hijas se parecen a sus padres y describo algunas características que se heredan. ,2020-01-25 18:12:03.453072-05
+21,Ciencias Naturales,1-3,Entorno vivo,"Identifico y describo la flora, la fauna, el agua y el suelo de mi entorno. ",2020-01-25 18:12:03.453072-05
+22,Ciencias Naturales,1-3,Entorno vivo,Explico adaptaciones de los seres vivos al ambiente. ,2020-01-25 18:12:03.453072-05
+23,Ciencias Naturales,1-3,Entorno vivo,Comparo fósiles y seres vivos; identifico características que se mantienen en el tiempo. ,2020-01-25 18:12:03.453072-05
+24,Ciencias Naturales,1-3,Entorno vivo,Identifico patrones comunes a los seres vivos.,2020-01-25 18:12:03.453072-05
+25,Ciencias Naturales,1-3,Entorno físico,Describo y clasifico objetos según características que percibo con los cinco sentidos. ,2020-01-25 18:12:03.453072-05
+26,Ciencias Naturales,1-3,Entorno físico,Propongo y verifico diversas formas de medir sólidos y líquidos. ,2020-01-25 18:12:03.453072-05
+27,Ciencias Naturales,1-3,Entorno físico,Establezco relaciones entre magnitudes y unidades de medida apropiadas. ,2020-01-25 18:12:03.453072-05
+28,Ciencias Naturales,1-3,Entorno físico,"Identifico diferentes estados físicos de la materia (el agua, por ejemplo) y verifico causas para cambios de estado. ",2020-01-25 18:12:03.453072-05
+29,Ciencias Naturales,1-3,Entorno físico,"Identifico y comparo fuentes de luz, calor y sonido y su efecto sobre diferentes seres vivos. ",2020-01-25 18:12:03.453072-05
+30,Ciencias Naturales,1-3,Entorno físico,Identifico situaciones en las que ocurre transferencia de energía térmica y realizo experiencias para verificar el fenómeno. ,2020-01-25 18:12:03.453072-05
+31,Ciencias Naturales,1-3,Entorno físico,"Clasifico luces según color, intensidad y fuente. ",2020-01-25 18:12:03.453072-05
+32,Ciencias Naturales,1-3,Entorno físico,"Clasifico sonidos según tono, volumen y fuente. ",2020-01-25 18:12:03.453072-05
+33,Ciencias Naturales,1-3,Entorno físico,Propongo experiencias para comprobar la propagación de la luz y del sonido. ,2020-01-25 18:12:03.453072-05
+34,Ciencias Naturales,1-3,Entorno físico,"Identifico tipos de movimiento en seres vivos y objetos, y las fuerzas que los producen. ",2020-01-25 18:12:03.453072-05
+35,Ciencias Naturales,1-3,Entorno físico,Verifico las fuerzas a distancia generadas por imanes sobre diferentes objetos. ,2020-01-25 18:12:03.453072-05
+36,Ciencias Naturales,1-3,Entorno físico,Construyo circuitos eléctricos simples con pilas. ,2020-01-25 18:12:03.453072-05
+37,Ciencias Naturales,1-3,Entorno físico,"Registro el movimiento del Sol, la Luna y las estrellas en el cielo, en un periodo de tiempo.",2020-01-25 18:12:03.453072-05
+38,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Clasifico y comparo objetos según sus usos. ,2020-01-25 18:12:03.453072-05
+39,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Diferencio objetos naturales de objetos creados por el ser humano. ,2020-01-25 18:12:03.453072-05
+40,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Identifico objetos que emitan luz o sonido. ,2020-01-25 18:12:03.453072-05
+41,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Identifico circuitos eléctricos en mi entorno. ,2020-01-25 18:12:03.453072-05
+42,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Analizo la utilidad de algunos aparatos eléctricos a mi alrededor. ,2020-01-25 18:12:03.453072-05
+43,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Identifico aparatos que utilizamos hoy y que no se utilizaban en épocas pasadas. ,2020-01-25 18:12:03.453072-05
+44,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Asocio el clima con la forma de vida de diferentes comunidades. ,2020-01-25 18:12:03.453072-05
+45,Ciencias Naturales,1-3,"Ciencia, tecnología y sociedad",Identifico necesidades de cuidado de mi cuerpo y el de otras personas.,2020-01-25 18:12:03.453072-05
+46,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Escucho activamente a mis compañeros y compañeras y reconozco puntos de vista diferentes. ,2020-01-25 18:12:03.453072-05
+47,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Valoro y utilizo el conocimiento de diversas personas de mi entorno. ,2020-01-25 18:12:03.453072-05
+48,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Cumplo mi función y respeto la de otras personas en el trabajo en grupo. ,2020-01-25 18:12:03.453072-05
+49,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,"Reconozco la importancia de animales, plantas, agua y suelo de mi entorno y propongo estrategias para cuidarlos. ",2020-01-25 18:12:03.453072-05
+50,Ciencias Naturales,1-3,Desarrollo compromisos personales y sociales,Respeto y cuido los seres vivos y los objetos de mi entorno.,2020-01-25 18:12:03.453072-05
+51,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Observo el mundo en el que vivo. ,2020-01-25 18:12:03.453072-05
+52,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Formulo preguntas a partir de una observación o experiencia y escojo algunas de ellas para buscar posibles respuestas. ,2020-01-25 18:12:03.453072-05
+53,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Propongo explicaciones provisionales para responder mis preguntas. ,2020-01-25 18:12:03.453072-05
+54,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Identifico condiciones que influyen en los resultados de una experiencia y que pueden permanecer constantes o cambiar (variables). ,2020-01-25 18:12:03.453072-05
+55,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Diseño y realizo experimentos modificando una sola variable para dar respuesta a preguntas. ,2020-01-25 18:12:03.453072-05
+56,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,"Realizo mediciones con instrumentos convencionales (balanza, báscula, cronómetro, termómetro...) y no convencionales (paso, cuarta, pie, braza, vaso...). ",2020-01-25 18:12:03.453072-05
+57,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,"Registro mis observaciones, datos y resultados de manera organizada y rigurosa (sin alteraciones), en forma escrita y utilizando esquemas, gráficos y tablas. ",2020-01-25 18:12:03.453072-05
+58,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,"Busco información en diversas fuentes (libros, Internet, experiencias y experimentos propios y de otros…) y doy el crédito correspondiente. ",2020-01-25 18:12:03.453072-05
+59,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Establezco relaciones entre la información y los datos recopilados. ,2020-01-25 18:12:03.453072-05
+60,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Selecciono la información que me permite responder a mis preguntas y determino si es suficiente. ,2020-01-25 18:12:03.453072-05
+61,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,"Saco conclusiones de mis experimentos, aunque no obtenga los resultados esperados. ",2020-01-25 18:12:03.453072-05
+62,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Propongo respuestas a mis preguntas y las comparo con las de otras personas. ,2020-01-25 18:12:03.453072-05
+63,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,Persisto en la búsqueda de respuestas a mis preguntas. ,2020-01-25 18:12:03.453072-05
+64,Ciencias Naturales,4-5,Me aproximo al conocimiento como científico-a natural,"Comunico, oralmente y por escrito, el proceso de indagación y los resultados que obtengo.",2020-01-25 18:12:03.453072-05
+65,Ciencias Naturales,4-5,Entorno vivo,Explico la importancia de la célula como unidad básica de los seres vivos. ,2020-01-25 18:12:03.453072-05
+66,Ciencias Naturales,4-5,Entorno vivo,Identifico los niveles de organización celular de los seres vivos. ,2020-01-25 18:12:03.453072-05
+67,Ciencias Naturales,4-5,Entorno vivo,Identifico en mi entorno objetos que cumplen funciones similares a las de mis órganos y sustento la comparación. ,2020-01-25 18:12:03.453072-05
+68,Ciencias Naturales,4-5,Entorno vivo,Represento los diversos sistemas de órganos del ser humano y explico su función. ,2020-01-25 18:12:03.453072-05
+69,Ciencias Naturales,4-5,Entorno vivo,"Clasifico seres vivos en diversos grupos taxonómicos (plantas, animales, microorganismos…). ",2020-01-25 18:12:03.453072-05
+70,Ciencias Naturales,4-5,Entorno vivo,"Indago acerca del tipo de fuerza (compresión, tensión o torsión) que puede fracturar diferentes tipos de huesos. ",2020-01-25 18:12:03.453072-05
+71,Ciencias Naturales,4-5,Entorno vivo,Identifico máquinas simples en el cuerpo de seres vivos y explico su función. ,2020-01-25 18:12:03.453072-05
+72,Ciencias Naturales,4-5,Entorno vivo,"Investigo y describo diversos tipos de neuronas, las comparo entre sí y con circuitos eléctricos. ",2020-01-25 18:12:03.453072-05
+73,Ciencias Naturales,4-5,Entorno vivo,Analizo el ecosistema que me rodea y lo comparo con otros. ,2020-01-25 18:12:03.453072-05
+74,Ciencias Naturales,4-5,Entorno vivo,Identifico adaptaciones de los seres vivos teniendo en cuenta las características de los ecosistemas en que viven. ,2020-01-25 18:12:03.453072-05
+75,Ciencias Naturales,4-5,Entorno vivo,Explico la dinámica de un ecosistema teniendo en cuenta las necesidades de energía y nutrientes de los seres vivos (cadena alimentaria). ,2020-01-25 18:12:03.453072-05
+76,Ciencias Naturales,4-5,Entorno vivo,Identifico fenómenos de camuflaje en el entorno y los relaciono con las necesidades de los seres vivos.,2020-01-25 18:12:03.453072-05
+77,Ciencias Naturales,4-5,Entorno físico,Describo y verifico el efecto de la transferencia de energía térmica en los cambios de estado de algunas sustancias. ,2020-01-25 18:12:03.453072-05
+78,Ciencias Naturales,4-5,Entorno físico,"Verifico la posibilidad de mezclar diversos líquidos, sólidos y gases. ",2020-01-25 18:12:03.453072-05
+79,Ciencias Naturales,4-5,Entorno físico,Propongo y verifico diferentes métodos de separación de mezclas. ,2020-01-25 18:12:03.453072-05
+80,Ciencias Naturales,4-5,Entorno físico,Establezco relaciones entre objetos que tienen masas iguales y volúmenes diferentes o viceversa y su posibilidad de flotar. ,2020-01-25 18:12:03.453072-05
+81,Ciencias Naturales,4-5,Entorno físico,Comparo movimientos y desplazamientos de seres vivos y objetos. ,2020-01-25 18:12:03.453072-05
+82,Ciencias Naturales,4-5,Entorno físico,Relaciono el estado de reposo o movimiento de un objeto con las fuerzas aplicadas sobre éste. ,2020-01-25 18:12:03.453072-05
+83,Ciencias Naturales,4-5,Entorno físico,Describo fuerzas en máquinas simples. ,2020-01-25 18:12:03.453072-05
+84,Ciencias Naturales,4-5,Entorno físico,Verifico la conducción de electricidad o calor en materiales. ,2020-01-25 18:12:03.453072-05
+85,Ciencias Naturales,4-5,Entorno físico,Identifico las funciones de los componentes de un circuito eléctrico. ,2020-01-25 18:12:03.453072-05
+86,Ciencias Naturales,4-5,Entorno físico,"Describo los principales elementos del sistema solar y establezco relaciones de tamaño, movimiento y posición. ",2020-01-25 18:12:03.453072-05
+87,Ciencias Naturales,4-5,Entorno físico,Comparo el peso y la masa de un objeto en diferentes puntos del sistema solar. ,2020-01-25 18:12:03.453072-05
+88,Ciencias Naturales,4-5,Entorno físico,Describo las características físicas de la Tierra y su atmósfera. ,2020-01-25 18:12:03.453072-05
+89,Ciencias Naturales,4-5,Entorno físico,Relaciono el movimiento de traslación con los cambios climáticos. ,2020-01-25 18:12:03.453072-05
+90,Ciencias Naturales,4-5,Entorno físico,"Establezco relaciones entre mareas, corrientes marinas, movimiento de placas tectónicas, formas del paisaje y relieve, y las fuerzas que los generan.",2020-01-25 18:12:03.453072-05
+91,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ",Identifico máquinas simples en objetos cotidianos y describo su utilidad. ,2020-01-25 18:12:03.453072-05
+92,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ",Construyo máquinas simples para solucionar problemas cotidianos. ,2020-01-25 18:12:03.453072-05
+93,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ","Identifico en la historia, situaciones en las que, en ausencia de motores potentes, se utilizaron máquinas simples. ",2020-01-25 18:12:03.453072-05
+94,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ",Analizo características ambientales de mi entorno y peligros que lo amenazan. ,2020-01-25 18:12:03.453072-05
+95,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ","Establezco relaciones entre el efecto invernadero, la lluvia ácida y el debilitamiento de la capa de ozono con la contaminación atmosférica. ",2020-01-25 18:12:03.453072-05
+96,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ","Asocio el clima y otras características del entorno con los materiales de construcción, los aparatos eléctricos más utilizados, los recursos naturales y las costumbres de diferentes comunidades. ",2020-01-25 18:12:03.453072-05
+97,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ",Verifico que la cocción de alimentos genera cambios físicos y químicos. ,2020-01-25 18:12:03.453072-05
+98,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ","Identifico y describo aparatos que generan energía luminosa, térmica y mecánica. ",2020-01-25 18:12:03.453072-05
+99,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ",Identifico y establezco las aplicaciones de los circuitos eléctricos en el desarrollo tecnológico. ,2020-01-25 18:12:03.453072-05
+100,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ",Establezco relaciones entre microorganismos y salud. ,2020-01-25 18:12:03.453072-05
+101,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ","Reconozco los efectos nocivos del exceso en el consumo de cafeína, tabaco, drogas y licores. ",2020-01-25 18:12:03.453072-05
+102,Ciencias Naturales,4-5,"Ciencia, tecnología y sociedad ",Establezco relaciones entre deporte y salud física y mental.,2020-01-25 18:12:03.453072-05
+103,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Escucho activamente a mis compañeros y compañeras, reconozco puntos de vista diferentes y los comparo con los míos. ",2020-01-25 18:12:03.453072-05
+104,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Reconozco y acepto el escepticismo de mis compañeros y compañeras ante la información que presento. ,2020-01-25 18:12:03.453072-05
+105,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Valoro y utilizo el conocimiento de diferentes personas de mi entorno. ,2020-01-25 18:12:03.453072-05
+106,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Cumplo mi función cuando trabajo en grupo, respeto las funciones de otros y contribuyo a lograr productos comunes. ",2020-01-25 18:12:03.453072-05
+107,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Identifico y acepto diferencias en las formas de vida y de pensar. ,2020-01-25 18:12:03.453072-05
+108,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Reconozco y respeto mis semejanzas y diferencias con los demás en cuanto a género, aspecto y limitaciones físicas. ",2020-01-25 18:12:03.453072-05
+109,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Propongo alternativas para cuidar mi entorno y evitar peligros que lo amenazan. ,2020-01-25 18:12:03.453072-05
+110,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,"Cuido, respeto y exijo respeto por mi cuerpo y el de las demás personas. ",2020-01-25 18:12:03.453072-05
+111,Ciencias Naturales,4-5,Desarrollo compromisos personales y sociales,Respeto y cuido los seres vivos y los objetos de mi entorno.,2020-01-25 18:12:03.453072-05
+112,Ciencias Sociales,1-3,Me aproximo al conocimiento como científico(a) social,"Hago preguntas sobre mí y sobre las organizaciones sociales a las que pertenezco (familia, curso, colegio, barrio…).",2020-01-25 18:12:03.453072-05
+113,Ciencias Sociales,1-3,Me aproximo al conocimiento como científico(a) social,"Reconozco diversos aspectos míos y de las organizaciones sociales a las que pertenezco, así como los cambios que han ocurrido a través del tiempo.",2020-01-25 18:12:03.453072-05
+114,Ciencias Sociales,1-3,Me aproximo al conocimiento como científico(a) social,"Uso diversas fuentes para obtener la información que necesito (entrevistas a mis familiares y profesores, fotografías, textos escolares y otros).",2020-01-25 18:12:03.453072-05
+115,Ciencias Sociales,1-3,Me aproximo al conocimiento como científico(a) social,"Organizo la información, utilizando cuadros, gráficas…",2020-01-25 18:12:03.453072-05
+116,Ciencias Sociales,1-3,Me aproximo al conocimiento como científico(a) social,Establezco relaciones entre la información obtenida en diferentes fuentes y propongo respuestas a mis preguntas.,2020-01-25 18:12:03.453072-05
+117,Ciencias Sociales,1-3,Me aproximo al conocimiento como científico(a) social,"Utilizo diversas formas de expresión (oral, escrita, gráfica) para comunicar los resultados de mi investigación.",2020-01-25 18:12:03.453072-05
+118,Ciencias Sociales,1-3,Me aproximo al conocimiento como científico(a) social,"Doy crédito a las diferentes fuentes de la información obtenida (cuento a quién entrevisté, qué libros miré, qué fotos comparé…).",2020-01-25 18:12:03.453072-05
+119,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,"Identifico algunas características físicas, sociales, culturales y emocionales que hacen de mí un ser único.",2020-01-25 18:12:03.453072-05
+120,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,Identificó  y describo algunas características socioculturales de comunidades a las que pertenezco y de otras diferentes a las mías.,2020-01-25 18:12:03.453072-05
+121,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,Identifico y describo cambios y aspectos que se mantienen en mí y en las organizaciones de mi entorno.,2020-01-25 18:12:03.453072-05
+122,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,"Reconozco en mi entorno cercano las huellas que dejaron las comunidades que lo ocuparon en el pasado (monumentos, museos, sitios de conservación histórica…).",2020-01-25 18:12:03.453072-05
+123,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,"Identifico y describo algunos elementos que permiten reconocerme como miembro de un grupo regional y de una nación (territorio, lenguas, costumbres, símbolos patrios…).",2020-01-25 18:12:03.453072-05
+124,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,Reconozco características básicas de la diversidad étnica y cultural en Colombia.,2020-01-25 18:12:03.453072-05
+125,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,Identifico los aportes culturales que mi comunidad y otras diferentes a la mía han hecho a lo que somos hoy.,2020-01-25 18:12:03.453072-05
+126,Ciencias Sociales,1-3,Relaciones con la historia y las culturas,Reconozco conflictos que se generan cuando no se respetan mis rasgos particulares o los de otras personas.,2020-01-25 18:12:03.453072-05
+127,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,"Me ubico en el entorno físico y de representación (en mapas y planos) utilizando referentes espaciales como arriba, abajo, dentro, fuera, derecha, izquierda.",2020-01-25 18:12:03.453072-05
+128,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,"Establezco relaciones entre los espacios físicos que ocupo (salón de clase, colegio, municipio…) y sus representaciones (mapas, planos, maquetas...).",2020-01-25 18:12:03.453072-05
+129,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Reconozco diversas formas de representación de la Tierra.,2020-01-25 18:12:03.453072-05
+130,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Reconozco y describo las características físicas de las principales formas del paisaje.,2020-01-25 18:12:03.453072-05
+131,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Identifico y describo las características de un paisaje natural y de un paisaje cultural.,2020-01-25 18:12:03.453072-05
+132,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Establezco relaciones entre los accidentes geográficos y su representación gráfica.,2020-01-25 18:12:03.453072-05
+133,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Establezco relaciones entre paisajes naturales y paisajes culturales.,2020-01-25 18:12:03.453072-05
+134,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,"Identifico formas de medir el tiempo (horas, días, años...) y las relaciono con las actividades de las personas.",2020-01-25 18:12:03.453072-05
+135,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Comparo actividades económicas que se llevan a cabo en diferentes entornos.,2020-01-25 18:12:03.453072-05
+136,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Establezco relaciones entre el clima y las actividades económicas de las personas.,2020-01-25 18:12:03.453072-05
+137,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,"Reconozco, describo y comparo las actividades económicas de algunas personas en mi entorno y el efecto de su trabajo en la comunidad.",2020-01-25 18:12:03.453072-05
+138,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Identifico los principales recursos naturales (renovables y no renovables).,2020-01-25 18:12:03.453072-05
+139,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Reconozco factores de tipo económico que generan bienestar o conflicto en la vida social.,2020-01-25 18:12:03.453072-05
+140,Ciencias Sociales,1-3,Relaciones espaciales y ambientales,Reconozco que los recursos naturales son finitos y exigen un uso responsable.,2020-01-25 18:12:03.453072-05
+141,Ciencias Sociales,1-3,Relaciones ético políticas,"Identifico y describo características y funciones básicas de organizaciones sociales y políticas de mi entorno (familia, colegio, barrio, vereda, corregimiento, resguardo, territorios afrocolombianos, municipio…).",2020-01-25 18:12:03.453072-05
+142,Ciencias Sociales,1-3,Relaciones ético políticas,Identifico situaciones cotidianas que indican cumplimiento o incumplimiento en las funciones de algunas organizaciones sociales y políticas de mi entorno.,2020-01-25 18:12:03.453072-05
+143,Ciencias Sociales,1-3,Relaciones ético políticas,"Comparo las formas de organización propias de los grupos pequeños (familia, salón de clase, colegio…) con las de los grupos más grandes (resguardo, territorios afrocolombianos, municipio…).",2020-01-25 18:12:03.453072-05
+144,Ciencias Sociales,1-3,Relaciones ético políticas,Identifico factores que generan cooperación y conflicto en las organizaciones sociales y políticas de mi entorno y explico por qué lo hacen.,2020-01-25 18:12:03.453072-05
+145,Ciencias Sociales,1-3,Relaciones ético políticas,Identifico mis derechos y deberes y los de otras personas en las comunidades a las que pertenezco.,2020-01-25 18:12:03.453072-05
+146,Ciencias Sociales,1-3,Relaciones ético políticas,Identifico normas que rigen algunas comunidades a las que pertenezco y explico su utilidad.,2020-01-25 18:12:03.453072-05
+147,Ciencias Sociales,1-3,Relaciones ético políticas,"Reconozco algunas normas que han sido construidas socialmente y distingo aquellas en cuya construcción y modificación puedo participar (normas del hogar, manual de convivencia escolar, Código de Tránsito…).",2020-01-25 18:12:03.453072-05
+148,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,Reconozco y respeto diferentes puntos de vista.,2020-01-25 18:12:03.453072-05
+149,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,Comparo mis aportes con los de mis compañeros y compañeras e incorporo en mis conocimientos y juicios elementos valiosos aportados por otros.,2020-01-25 18:12:03.453072-05
+150,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,"Respeto mis rasgos individuales y los de otras personas (género, etnia, religión…).",2020-01-25 18:12:03.453072-05
+151,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,"Reconozco situaciones de discriminación y abuso por irrespeto a los rasgos individuales de las personas (religión, etnia, género, discapacidad…) y propongo formas de cambiarlas.",2020-01-25 18:12:03.453072-05
+152,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,"Reconozco la diversidad étnica y cultural de mi comunidad, mi ciudad…",2020-01-25 18:12:03.453072-05
+153,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,Participo en actividades que expresan valores culturales de mi comunidad y de otras diferentes a la mía.,2020-01-25 18:12:03.453072-05
+154,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,"Participo en la construcción de normas para la convivencia en los grupos sociales y políticos a los que pertenezco (familia, colegio, barrio...).",2020-01-25 18:12:03.453072-05
+155,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,Cuido mi cuerpo y mis relaciones con los demás.,2020-01-25 18:12:03.453072-05
+156,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,Cuido el entorno que me rodea y manejo responsablemente las basuras.,2020-01-25 18:12:03.453072-05
+157,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,"Uso responsablemente los recursos (papel, agua, alimentos…).",2020-01-25 18:12:03.453072-05
+158,Ciencias Sociales,1-3,Desarrollo compromisos personales y sociales,Valoro aspectos de las organizaciones sociales y políticas de mi entorno que promueven el desarrollo individual y comunitario.,2020-01-25 18:12:03.453072-05
+159,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,"Hago preguntas acerca de los fenómenos políticos, económicos sociales y culturales estudiados (Prehistoria, pueblos prehispánicos colombianos…).",2020-01-25 18:12:03.453072-05
+160,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,Planteo conjeturas que respondan provisionalmente a estas preguntas.,2020-01-25 18:12:03.453072-05
+161,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,"Utilizo diferentes tipos de fuentes para obtener la información que necesito (textos escolares, cuentos y relatos, entrevistas a profesores y familiares, dibujos, fotografías y recursos virtuales…).",2020-01-25 18:12:03.453072-05
+162,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,"Organizo la información obtenida utilizando cuadros, gráficas… y la archivo en orden.",2020-01-25 18:12:03.453072-05
+163,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,Establezco relaciones entre información localizada en diferentes fuentes y propongo respuestas a las preguntas que planteo.,2020-01-25 18:12:03.453072-05
+164,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,"Reconozco que los fenómenos estudiados tienen diversos aspectos que deben ser tenidos en cuenta (cambios a lo largo del tiempo, ubicación geográfica, aspectos económicos…).",2020-01-25 18:12:03.453072-05
+165,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,Reviso mis conjeturas iniciales.,2020-01-25 18:12:03.453072-05
+166,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,"Utilizo diversas formas de expresión (exposición oral, dibujos, carteleras, textos cortos…) para comunicar los resultados de mi investigación.",2020-01-25 18:12:03.453072-05
+167,Ciencias Sociales,4-5,Me aproximo al conocimiento como científico(a) social,"Doy crédito a las diferentes fuentes de la información obtenida (cuento a mis compañeros a quién entrevisté, qué libros leí, qué dibujos comparé, cito información de fuentes escritas…).",2020-01-25 18:12:03.453072-05
+168,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,"Identifico y explico fenómenos sociales y económicos que permitieron el paso del nomadismo al sedentarismo (agricultura, división del trabajo...).",2020-01-25 18:12:03.453072-05
+169,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,"Identifico y describo características sociales, políticas, económicas y culturales de las primeras organizaciones humanas (banda, clan, tribu...).",2020-01-25 18:12:03.453072-05
+170,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,Comparo características de las primeras organizaciones humanas con las de las organizaciones de mi entorno.,2020-01-25 18:12:03.453072-05
+171,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,"Identifico algunas condiciones políticas, sociales, económicas y tecnológicas que permitieron las exploraciones de la antigüedad y el medioevo.",2020-01-25 18:12:03.453072-05
+172,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,Establezco algunas relaciones entre exploraciones de la antigüedad y el medioevo y exploraciones de la actualidad.,2020-01-25 18:12:03.453072-05
+173,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,"Identifico, describo y comparo algunas características sociales, políticas, económicas y culturales de las comunidades prehispánicas de Colombia y América.",2020-01-25 18:12:03.453072-05
+174,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,Relaciono estas características con las condiciones del entorno particular de cada cultura.,2020-01-25 18:12:03.453072-05
+175,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,"Comparo características de los grupos prehispánicos con las características sociales, políticas, económicas y culturales actuales.",2020-01-25 18:12:03.453072-05
+176,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,Identifico los propósitos de las organizaciones coloniales españolas y describo aspectos básicos de su funcionamiento.,2020-01-25 18:12:03.453072-05
+177,Ciencias Sociales,4-5,Relaciones con la historia y las culturas,"Identifico y comparo algunas causas que dieron lugar a los diferentes períodos históricos en Colombia (Descubrimiento,  Colonia, Independencia...).",2020-01-25 18:12:03.453072-05
+178,Ciencias Sociales,4-5,Relaciones espaciales y ambientales,"Me ubico en el entorno físico utilizando referentes espaciales (izquierda, derecha, puntos cardinales).",2020-01-25 18:12:03.453072-05
+179,Ciencias Sociales,4-5,Relaciones espaciales y ambientales,"Utilizo coordenadas, escalas y convenciones para ubicar los fenómenos históricos y culturales en mapas y planos de representación.",2020-01-25 18:12:03.453072-05
+180,Ciencias Sociales,4-5,Relaciones espaciales y ambientales,"Identifico y describo características de las diferentes regiones naturales del mundo (desiertos, polos, selva húmeda tropical, océanos…).",2020-01-25 18:12:03.453072-05
+181,Ciencias Sociales,4-5,Relaciones espaciales y ambientales,"Identifico y describo algunas de las características humanas (sociales, culturales…) de las diferentes regiones naturales del mundo.",2020-01-25 18:12:03.453072-05
+182,Ciencias Sociales,4-5,Relaciones espaciales y ambientales,"Clasifico y describo diferentes actividades económicas (producción, distribución, consumo…) en diferentes sectores económicos (agrícola, ganadero, minero, industrial...) y reconozco su impacto en las comunidades.",2020-01-25 18:12:03.453072-05
+183,Ciencias Sociales,4-5,Relaciones espaciales y ambientales,"Reconozco los diferentes usos que se le dan a la tierra y a los recursos naturales en mi entorno y en otros (parques naturales, ecoturismo, ganadería, agricultura…).",2020-01-25 18:12:03.453072-05
+184,Ciencias Sociales,4-5,Relaciones espaciales y ambientales,"Identifico organizaciones que resuelven las necesidades básicas (salud, educación, vivienda, servicios públicos, vías de comunicación…) en mi comunidad, en otras y en diferentes épocas y culturas; identifico su impacto sobre el desarrollo.",2020-01-25 18:12:03.453072-05
+185,Ciencias Sociales,4-5,Relaciones ético políticas,"Identifico y describo algunas características de las organizaciones político-administrativas colombianas en diferentes épocas (Real Audiencia, Congreso, Concejo Municipal…).",2020-01-25 18:12:03.453072-05
+186,Ciencias Sociales,4-5,Relaciones ético políticas,Comparo características del sistema político-administrativo de Colombia –ramas del poder público– en las diferentes épocas.,2020-01-25 18:12:03.453072-05
+187,Ciencias Sociales,4-5,Relaciones ético políticas,Explico semejanzas y diferencias entre organizaciones político-administrativas.,2020-01-25 18:12:03.453072-05
+188,Ciencias Sociales,4-5,Relaciones ético políticas,"Explico el impacto de algunos hechos históricos en la formación limítrofe del territorio colombiano (Virreinato de la Nueva Granada, Gran Colombia, separación de Panamá…).",2020-01-25 18:12:03.453072-05
+189,Ciencias Sociales,4-5,Relaciones ético políticas,"Reconozco las responsabilidades que tienen las personas elegidas por voto popular y algunas características de sus cargos (personeros estudiantiles, concejales, congresistas, presidente…)",2020-01-25 18:12:03.453072-05
+190,Ciencias Sociales,4-5,Relaciones ético políticas,"Conozco los Derechos de los Niños e identifico algunas instituciones locales, nacionales e internacionales que velan por su cumplimiento (personería estudiantil, comisaría de familia, Unicef…)",2020-01-25 18:12:03.453072-05
+191,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,Reconozco y respeto diferentes puntos de vista acerca de un fenómeno social.,2020-01-25 18:12:03.453072-05
+192,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,"Participo en debates y discusiones: asumo una posición, la confronto con la de otros, la defiendo y soy capaz de modificar mis posturas si lo considero pertinente.",2020-01-25 18:12:03.453072-05
+193,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,"Respeto mis rasgos individuales y culturales y los de otras personas (género, etnia…).",2020-01-25 18:12:03.453072-05
+194,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,"Asumo una posición crítica frente a situaciones de discriminación y abuso por irrespeto a los rasgos individuales de las personas (etnia, género…) y propongo formas de cambiarlas.",2020-01-25 18:12:03.453072-05
+195,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,"Reconozco la importancia de los aportes de algunos legados culturales, científicos, tecnológicos, artísticos, religiosos… en diversas épocas y entornos.",2020-01-25 18:12:03.453072-05
+196,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,"Participo en la construcción de normas para la convivencia en los grupos a los que pertenezco (familia, colegio, barrio...).",2020-01-25 18:12:03.453072-05
+197,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,Cuido mi cuerpo y mis relaciones con las demás personas.,2020-01-25 18:12:03.453072-05
+198,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,Cuido el entorno que me rodea y manejo responsablemente las basuras.,2020-01-25 18:12:03.453072-05
+199,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,"Uso responsablemente los recursos (papel, agua, alimento, energía…).",2020-01-25 18:12:03.453072-05
+200,Ciencias Sociales,4-5,Desarrollo compromisos personales y sociales,"Defiendo mis derechos y los de otras personas y contribuyo a denunciar ante las autoridades competentes (profesor, padres, comisaría de familia…) casos en los que son vulnerados.",2020-01-25 18:12:03.453072-05
+201,Inglés,1-3,Escucha,"Reconozco cuando me hablan en inglés y reacciono de manera verbal y no verbal. 2, 3",2020-01-25 18:12:03.453072-05
+202,Inglés,1-3,Escucha,"Entiendo cuando me saludan y se despiden de mí. 2, 3",2020-01-25 18:12:03.453072-05
+203,Inglés,1-3,Escucha,"Sigo instrucciones relacionadas con actividades de clase y recreativas propuestas por mi profesor. 1, 2",2020-01-25 18:12:03.453072-05
+204,Inglés,1-3,Escucha,"Comprendo canciones, rimas y rondas infantiles, y lo demuestro con gestos y movimientos. 2, 3",2020-01-25 18:12:03.453072-05
+205,Inglés,1-3,Escucha,"Demuestro comprensión de preguntas sencillas sobre mí, mi familia y mi entorno. 1",2020-01-25 18:12:03.453072-05
+206,Inglés,1-3,Escucha,Comprendo descripciones cortas y sencillas de objetos y lugares conocidos. 2,2020-01-25 18:12:03.453072-05
+207,Inglés,1-3,Escucha,Identifico a las personas que participan en una conversación. 3,2020-01-25 18:12:03.453072-05
+208,Inglés,1-3,Escucha,"Sigo la secuencia de un cuento corto apoyado en imágenes. 1, 2",2020-01-25 18:12:03.453072-05
+209,Inglés,1-3,Escucha,"Entiendo la idea general de una historia contada por mi profesor cuando se apoya en movimientos, gestos y cambios de voz. 2, 3",2020-01-25 18:12:03.453072-05
+210,Inglés,1-3,Escucha,Reconozco que hay otras personas como yo que se comunican en inglés. 3,2020-01-25 18:12:03.453072-05
+211,Inglés,1-3,Escucha,Comprendo secuencias relacionadas con hábitos y rutinas. 2,2020-01-25 18:12:03.453072-05
+212,Inglés,1-3,Lectura,"Identifico palabras relacionadas entre sí sobre temas que me son familiares. 1, 2",2020-01-25 18:12:03.453072-05
+213,Inglés,1-3,Lectura,"Reconozco palabras y frases cortas en inglés en libros, objetos, juguetes, propagandas y lugares de mi escuela. 3",2020-01-25 18:12:03.453072-05
+214,Inglés,1-3,Lectura,Relaciono ilustraciones con oraciones simples. 1,2020-01-25 18:12:03.453072-05
+215,Inglés,1-3,Lectura,"Reconozco y sigo instrucciones sencillas, si están ilustradas. 1, 2",2020-01-25 18:12:03.453072-05
+216,Inglés,1-3,Lectura,"Puedo predecir una historia a partir del título, las ilustraciones y las palabras clave. 1, 2",2020-01-25 18:12:03.453072-05
+217,Inglés,1-3,Lectura,"Sigo la secuencia de una historia sencilla. 1, 2",2020-01-25 18:12:03.453072-05
+218,Inglés,1-3,Lectura,"Utilizo diagramas para organizar la información de cuentos cortos leídos en clase. 1, 2",2020-01-25 18:12:03.453072-05
+219,Inglés,1-3,Lectura,Disfruto la lectura como una actividad de esparcimiento que me ayuda a descubrir el mundo.,2020-01-25 18:12:03.453072-05
+220,Inglés,1-3,Escritura,Copio y transcribo palabras que comprendo y que uso con frecuencia en el salón de clase. 1,2020-01-25 18:12:03.453072-05
+221,Inglés,1-3,Escritura,Escribo el nombre de lugares y elementos que reconozco en una ilustración. 1,2020-01-25 18:12:03.453072-05
+222,Inglés,1-3,Escritura,"Respondo brevemente a las preguntas “qué, quién, cuándo y dónde”, si se refieren a mi familia, mis amigos o mi colegio. 1",2020-01-25 18:12:03.453072-05
+223,Inglés,1-3,Escritura,"Escribo información personal en formatos sencillos. 1, 2",2020-01-25 18:12:03.453072-05
+224,Inglés,1-3,Escritura,"Escribo mensajes de invitación y felicitación usando formatos sencillos. 1, 2",2020-01-25 18:12:03.453072-05
+225,Inglés,1-3,Escritura,Demuestro conocimiento de las estructuras básicas del inglés. 1,2020-01-25 18:12:03.453072-05
+226,Inglés,1-3,Monólogos,"Recito y canto rimas, poemas y trabalenguas que comprendo, con ritmo y entonación adecuados. 1, 3",2020-01-25 18:12:03.453072-05
+227,Inglés,1-3,Monólogos,"Expreso mis sentimientos y estados de ánimo. 1, 2",2020-01-25 18:12:03.453072-05
+228,Inglés,1-3,Monólogos,"Menciono lo que me gusta y lo que no me gusta. 1, 2",2020-01-25 18:12:03.453072-05
+229,Inglés,1-3,Monólogos,Describo lo que estoy haciendo. 2,2020-01-25 18:12:03.453072-05
+230,Inglés,1-3,Monólogos,"Nombro algunas cosas que puedo hacer y que no puedo hacer. 1, 2",2020-01-25 18:12:03.453072-05
+231,Inglés,1-3,Monólogos,Describo lo que hacen algunos miembros de mi comunidad. 2,2020-01-25 18:12:03.453072-05
+232,Inglés,1-3,Monólogos,"Uso gestos y movimientos corporales para hacerme entender mejor. 2, 3",2020-01-25 18:12:03.453072-05
+233,Inglés,1-3,Monólogos,"Describo algunas características de mí mismo, de otras personas, de animales, de lugares y del clima. 1, 2",2020-01-25 18:12:03.453072-05
+234,Inglés,1-3,Monólogos,"Participo en representaciones cortas; memorizo y comprendo los parlamentos. 1, 2",2020-01-25 18:12:03.453072-05
+235,Inglés,1-3,Conversación,Respondo a saludos y a despedidas. 2,2020-01-25 18:12:03.453072-05
+236,Inglés,1-3,Conversación,Respondo a preguntas sobre cómo me siento. 2,2020-01-25 18:12:03.453072-05
+237,Inglés,1-3,Conversación,"Uso expresiones cotidianas para expresar mis necesidades inmediatas en el aula. 1, 2",2020-01-25 18:12:03.453072-05
+238,Inglés,1-3,Conversación,"Utilizo el lenguaje no verbal cuando no puedo responder verbalmente a preguntas sobre mis preferencias. Por ejemplo, asintiendo o negando con la cabeza. 2, 3",2020-01-25 18:12:03.453072-05
+239,Inglés,1-3,Conversación,"Expreso e indico necesidades personales básicas relacionadas con el aula. 2, 3",2020-01-25 18:12:03.453072-05
+240,Inglés,1-3,Conversación,"Respondo a preguntas sobre personas, objetos y lugares de mi entorno. 2",2020-01-25 18:12:03.453072-05
+241,Inglés,1-3,Conversación,Pido que me repitan el mensaje cuando no lo comprendo.,2020-01-25 18:12:03.453072-05
+242,Inglés,1-3,Conversación,"Participó activamente en juegos de palabras y rondas. 1, 3",2020-01-25 18:12:03.453072-05
+243,Inglés,1-3,Conversación,Refuerzo con gestos lo que digo para hacerme entender. 3,2020-01-25 18:12:03.453072-05
+244,Inglés,4-5,Escucha,"Sigo atentamente lo que dicen mi profesor y mis compañeros durante un juego o una actividad. 2, 3",2020-01-25 18:12:03.453072-05
+245,Inglés,4-5,Escucha,"Participo en juegos y actividades siguiendo instrucciones simples. 1, 2",2020-01-25 18:12:03.453072-05
+246,Inglés,4-5,Escucha,"Identifico los nombres de los personajes y los eventos principales de un cuento leído por el profesor y apoyado en imágenes, videos o cualquier tipo de material visual. 1",2020-01-25 18:12:03.453072-05
+247,Inglés,4-5,Escucha,Reconozco algunos estados de ánimo a través del tono o volumen de voz en una historia leída por el profesor o en una grabación. 3,2020-01-25 18:12:03.453072-05
+248,Inglés,4-5,Escucha,"Identifico de quién me hablan a partir de su descripción física. 1, 2",2020-01-25 18:12:03.453072-05
+249,Inglés,4-5,Escucha,"Comprendo información personal proporcionada por mis compañeros y mi profesor. 1, 2",2020-01-25 18:12:03.453072-05
+250,Inglés,4-5,Escucha,"Identifico objetos, personas y acciones que me son conocidas en un texto descriptivo corto leído por el profesor. 1, 2",2020-01-25 18:12:03.453072-05
+251,Inglés,4-5,Escucha,"Identifico la secuencia de las acciones y las asocio con los momentos del día, cuando alguien describe su rutina diaria. 1, 2, 3",2020-01-25 18:12:03.453072-05
+252,Inglés,4-5,Escucha,Memorizo y sigo el ritmo de canciones populares de países angloparlantes. 3,2020-01-25 18:12:03.453072-05
+253,Inglés,4-5,Lectura,Asocio un dibujo con su descripción escrita. 2,2020-01-25 18:12:03.453072-05
+254,Inglés,4-5,Lectura,"Comprendo descripciones cortas sobre personas, lugares y acciones conocidas. 1, 2",2020-01-25 18:12:03.453072-05
+255,Inglés,4-5,Lectura,Ubico en un texto corto los lugares y momentos en que suceden las acciones. 1,2020-01-25 18:12:03.453072-05
+256,Inglés,4-5,Lectura,"Identifico las acciones en una secuencia corta de eventos. 1, 2",2020-01-25 18:12:03.453072-05
+257,Inglés,4-5,Lectura,Utilizo gráficas para representar la información más relevante de un texto. 2,2020-01-25 18:12:03.453072-05
+258,Inglés,4-5,Lectura,Utilizo el diccionario como apoyo a la comprensión de textos.,2020-01-25 18:12:03.453072-05
+259,Inglés,4-5,Lectura,"Identifico elementos culturales como nombres propios y lugares, en textos sencillos. 1, 3",2020-01-25 18:12:03.453072-05
+260,Inglés,4-5,Lectura,"Leo y entiendo textos auténticos y sencillos sobre acontecimientos concretos asociados a tradiciones culturales que conozco (cumpleaños, navidad, etc.). 1, 3",2020-01-25 18:12:03.453072-05
+261,Inglés,4-5,Lectura,"Reconozco, en un texto narrativo corto, aspectos como qué, quién, cuándo y dónde. 1, 2",2020-01-25 18:12:03.453072-05
+262,Inglés,4-5,Lectura,"Participo en juegos de búsqueda de palabras desconocidas. 1, 2, 3",2020-01-25 18:12:03.453072-05
+263,Inglés,4-5,Escritura,Escribo sobre temas de mi interés. 2,2020-01-25 18:12:03.453072-05
+264,Inglés,4-5,Escritura,Escribo descripciones y narraciones cortas basadas en una secuencia de ilustraciones. 2,2020-01-25 18:12:03.453072-05
+265,Inglés,4-5,Escritura,"Escribo tarjetas con mensajes cortos de felicitación o invitación. 1, 2, 3",2020-01-25 18:12:03.453072-05
+266,Inglés,4-5,Escritura,"Describo los rasgos personales de gente de mi entorno. 1, 2",2020-01-25 18:12:03.453072-05
+267,Inglés,4-5,Escritura,"Enlazo frases y oraciones usando conectores que expresan secuencia y adición. 1, 2",2020-01-25 18:12:03.453072-05
+268,Inglés,4-5,Escritura,"Escribo textos cortos que describen mi estado de ánimo y mis preferencias. 1, 2",2020-01-25 18:12:03.453072-05
+269,Inglés,4-5,Escritura,"Uso adecuadamente estructuras y patrones gramaticales de uso frecuente. 1, 2",2020-01-25 18:12:03.453072-05
+270,Inglés,4-5,Escritura,Verifico co la ortografía de las palabras que escribo con frecuencia. 1,2020-01-25 18:12:03.453072-05
+271,Inglés,4-5,Escritura,"Escribo pequeñas historias que me imagino. 1, 2, 3",2020-01-25 18:12:03.453072-05
+272,Inglés,4-5,Monólogos,"Me describo a mí o a otra persona conocida, con frases simples y cortas, teniendo en cuenta su edad y sus características físicas. 1, 2, 3",2020-01-25 18:12:03.453072-05
+273,Inglés,4-5,Monólogos,"Uso oraciones cortas para decir lo que puedo o no puedo hacer. 1, 2",2020-01-25 18:12:03.453072-05
+274,Inglés,4-5,Monólogos,Deletreo palabras que me son conocidas. 1,2020-01-25 18:12:03.453072-05
+275,Inglés,4-5,Monólogos,"Expreso en una palabra o frase corta, cómo me siento. 1, 2",2020-01-25 18:12:03.453072-05
+276,Inglés,4-5,Monólogos,"Digo un texto corto memorizado en una dramatización, ayudándome con gestos. 3",2020-01-25 18:12:03.453072-05
+277,Inglés,4-5,Monólogos,"Describo con oraciones simples el clima y determino la ropa necesaria, según corresponda. 2, 3",2020-01-25 18:12:03.453072-05
+278,Inglés,4-5,Monólogos,"Recito un trabalenguas sencillo o una rima, o canto el coro de una canción. 1, 3",2020-01-25 18:12:03.453072-05
+279,Inglés,4-5,Monólogos,"Hablo de las actividades que realizo habitualmente. 1, 2",2020-01-25 18:12:03.453072-05
+280,Inglés,4-5,Monólogos,Busco oportunidades para usar lo que sé en inglés. 3,2020-01-25 18:12:03.453072-05
+281,Inglés,4-5,Monólogos,"Puedo hablar de cantidades y contar objetos hasta mil. 1, 2",2020-01-25 18:12:03.453072-05
+282,Inglés,4-5,Conversación,"Respondo a preguntas personales como nombre, edad, nacionalidad y dirección, con apoyo de repeticiones cuando sea necesario. 1, 2",2020-01-25 18:12:03.453072-05
+283,Inglés,4-5,Conversación,"Puedo saludar de acuerdo con la hora del día, de forma natural y apropiada. 2, 3",2020-01-25 18:12:03.453072-05
+284,Inglés,4-5,Conversación,"Saludo cortésmente de acuerdo con la edad y rango del interlocutor. 2, 3",2020-01-25 18:12:03.453072-05
+285,Inglés,4-5,Conversación,"Solicito a mi profesor y a mis compañeros que me aclaren una duda o me expliquen algo sobre lo que hablamos. 2, 3",2020-01-25 18:12:03.453072-05
+286,Inglés,4-5,Conversación,"Pido y acepto disculpas de forma simple y cortés. 2, 3",2020-01-25 18:12:03.453072-05
+287,Inglés,4-5,Conversación,"Sigo y doy instrucciones básicas cuando participo en juegos conocidos. 1, 2",2020-01-25 18:12:03.453072-05
+288,Inglés,4-5,Conversación,"Mantengo una conversación simple en inglés con un compañero cuando desarrollo una actividad de aula. 1, 2",2020-01-25 18:12:03.453072-05
+289,Inglés,4-5,Conversación,"Pregunto y respondo sobre las características físicas de objetos familiares. 1, 2",2020-01-25 18:12:03.453072-05
+290,Inglés,4-5,Conversación,"Respondo preguntas sobre mis gustos y preferencias. 1, 2",2020-01-25 18:12:03.453072-05
+291,Inglés,4-5,Conversación,"Puedo cortésmente llamar la atención de mi profesor con una frase corta. 1, 2, 3",2020-01-25 18:12:03.453072-05
+292,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,"Utilizo, de acuerdo con el contexto, un vocabulario adecuado para expresar mis ideas. ",2020-01-25 18:12:03.453072-05
+293,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,"Expreso en forma clara mis ideas y sentimientos, según lo amerite la situación comunicativa.",2020-01-25 18:12:03.453072-05
+294,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Utilizo la entonación y los matices afectivos de voz para alcanzar mi propósito en diferentes situaciones comunicativas. ,2020-01-25 18:12:03.453072-05
+295,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,"Tengo en cuenta aspectos semánticos y morfosintácticos, de acuerdo con la situación comunicativa en la que intervengo. ",2020-01-25 18:12:03.453072-05
+296,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,"Describo personas, objetos, lugares, etc., en forma detallada. ",2020-01-25 18:12:03.453072-05
+297,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Describo eventos de manera secuencial. ,2020-01-25 18:12:03.453072-05
+298,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Elaboro instrucciones que evidencian secuencias lógicas en la realización de acciones.,2020-01-25 18:12:03.453072-05
+299,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Expongo y defiendo mis ideas en función de la situación comunicativa.,2020-01-25 18:12:03.453072-05
+300,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Produzco textos escritos que responden a diversas necesidades comunicativas.,2020-01-25 18:12:03.453072-05
+301,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,"Determino el tema, el posible lector de mi texto y el propósito comunicativo que me lleva a producirlo. ",2020-01-25 18:12:03.453072-05
+302,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Elijo el tipo de texto que requiere mi propósito comunicativo. ,2020-01-25 18:12:03.453072-05
+303,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,"Busco información en distintas fuentes: personas, medios de comunicación y libros, entre otras. ",2020-01-25 18:12:03.453072-05
+304,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Elaboro un plan para organizar mis ideas. ,2020-01-25 18:12:03.453072-05
+305,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,Desarrollo un plan textual para la producción de un texto descriptivo. ,2020-01-25 18:12:03.453072-05
+306,Castellano,1-3,PRODUCCIÓN TEXTUAL. Produzco textos orales que responden a distintos propósitos comunicativos,"Reviso, socializo y corrijo mis escritos, teniendo en cuenta las propuestas de mis compañeros y profesor, y atendiendo algunos aspectos gramaticales (concordancia, tiempos verbales, pronombres) y ortográficos (acentuación, mayúsculas, signos de puntuación) de la lengua castellana.",2020-01-25 18:12:03.453072-05
+307,Castellano,1-3,COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo textos que tienen diferentes formatos y finalidades.,"Leo diferentes clases de textos: manuales, tarjetas, afiches, cartas, periódicos, etc. ",2020-01-25 18:12:03.453072-05
+308,Castellano,1-3,COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo textos que tienen diferentes formatos y finalidades.,Reconozco la función social de los diversos tipos de textos que leo. ,2020-01-25 18:12:03.453072-05
+309,Castellano,1-3,COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo textos que tienen diferentes formatos y finalidades.,Identifico la silueta o el formato de los textos que leo. ,2020-01-25 18:12:03.453072-05
+310,Castellano,1-3,COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo textos que tienen diferentes formatos y finalidades.,"Elaboro hipótesis acerca del sentido global de los textos, antes y durante el proceso de lectura; para el efecto, me apoyo en mis conocimientos previos, las imágenes y los títulos. ",2020-01-25 18:12:03.453072-05
+311,Castellano,1-3,COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo textos que tienen diferentes formatos y finalidades.,Identifico el propósito comunicativo y la idea global de un texto. ,2020-01-25 18:12:03.453072-05
+312,Castellano,1-3,COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo textos que tienen diferentes formatos y finalidades.,Elaboro resúmenes y esquemas que dan cuenta del sentido de un texto. ,2020-01-25 18:12:03.453072-05
+313,Castellano,1-3,COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo textos que tienen diferentes formatos y finalidades.,"Comparo textos de acuerdo con sus formatos, temáticas y funciones.",2020-01-25 18:12:03.453072-05
+314,Castellano,1-3,LITERATURA. Comprendo textos literarios para propiciar el desarrollo de mi capacidad creativa y lúdica,"Leo fábulas, cuentos, poemas, relatos mitológicos, leyendas, o cualquier otro texto literario. ",2020-01-25 18:12:03.453072-05
+315,Castellano,1-3,LITERATURA. Comprendo textos literarios para propiciar el desarrollo de mi capacidad creativa y lúdica,Elaboro y socializo hipótesis predictivas acerca del contenido de los textos. ,2020-01-25 18:12:03.453072-05
+316,Castellano,1-3,LITERATURA. Comprendo textos literarios para propiciar el desarrollo de mi capacidad creativa y lúdica,Identificó  maneras de cómo se formula el inicio y el final de algunas narraciones. ,2020-01-25 18:12:03.453072-05
+317,Castellano,1-3,LITERATURA. Comprendo textos literarios para propiciar el desarrollo de mi capacidad creativa y lúdica,"Diferencio poemas, cuentos y obras de teatro. ",2020-01-25 18:12:03.453072-05
+318,Castellano,1-3,LITERATURA. Comprendo textos literarios para propiciar el desarrollo de mi capacidad creativa y lúdica,"Recreo relatos y cuentos cambiando personajes, ambientes, hechos y épocas. ",2020-01-25 18:12:03.453072-05
+319,Castellano,1-3,LITERATURA. Comprendo textos literarios para propiciar el desarrollo de mi capacidad creativa y lúdica,Participo en la elaboración de guiones para teatro de títeres.,2020-01-25 18:12:03.453072-05
+320,Castellano,1-3,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Reconozco los medios de comunicación masiva y caracterizo la información que difunden.,Identifico los diversos medios de comunicación masiva con los que interactúo.,2020-01-25 18:12:03.453072-05
+321,Castellano,1-3,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Reconozco los medios de comunicación masiva y caracterizo la información que difunden.,"Caracterizo algunos medios de comunicación: radio, televisión, prensa, entre otros. ",2020-01-25 18:12:03.453072-05
+322,Castellano,1-3,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Reconozco los medios de comunicación masiva y caracterizo la información que difunden.,Comento mis programas favoritos de televisión o radio. ,2020-01-25 18:12:03.453072-05
+323,Castellano,1-3,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Reconozco los medios de comunicación masiva y caracterizo la información que difunden.,Identifico la información que emiten los medios de comunicación masiva y la forma de presentarla. ,2020-01-25 18:12:03.453072-05
+324,Castellano,1-3,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Reconozco los medios de comunicación masiva y caracterizo la información que difunden.,"Establezco diferencias y semejanzas entre noticieros, telenovelas, anuncios comerciales, dibujos animados, caricaturas, entre otros. ",2020-01-25 18:12:03.453072-05
+325,Castellano,1-3,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Reconozco los medios de comunicación masiva y caracterizo la información que difunden.,Utilizo los medios de comunicación masiva para adquirir información e incorporarla de manera significativa a mis esquemas de conocimiento.,2020-01-25 18:12:03.453072-05
+326,Castellano,1-3,Comprendo la información que circula a través de algunos sistemas de comunicación no verbal.,Entiendo el lenguaje empleado en historietas y otros tipos de textos con imágenes fijas. ,2020-01-25 18:12:03.453072-05
+327,Castellano,1-3,Comprendo la información que circula a través de algunos sistemas de comunicación no verbal.,"Expongo oralmente lo que me dicen mensajes cifrados en pictogramas, jeroglíficos, etc. ",2020-01-25 18:12:03.453072-05
+328,Castellano,1-3,Comprendo la información que circula a través de algunos sistemas de comunicación no verbal.,"Reconozco la temática de caricaturas, tiras cómicas, historietas, anuncios publicitarios y otros medios de expresión gráfica.",2020-01-25 18:12:03.453072-05
+329,Castellano,1-3,Comprendo la información que circula a través de algunos sistemas de comunicación no verbal.,Ordeno y completo la secuencia de viñetas que conforman una historieta. ,2020-01-25 18:12:03.453072-05
+330,Castellano,1-3,Comprendo la información que circula a través de algunos sistemas de comunicación no verbal.,"Relaciono gráficas con texto escrito, ya sea completándolas o explicándolas.",2020-01-25 18:12:03.453072-05
+331,Castellano,1-3,ÉTICA DE LA COMUNICACIÓN. Identifico los principales elementos y roles de la comunicación para enriquecer procesos comunicativos auténticos.,"Reconozco los principales elementos constitutivos de un proceso de comunicación: interlocutores, código, canal, texto y situación comunicativa. ",2020-01-25 18:12:03.453072-05
+332,Castellano,1-3,ÉTICA DE LA COMUNICACIÓN. Identifico los principales elementos y roles de la comunicación para enriquecer procesos comunicativos auténticos.,Establezco semejanzas y diferencias entre quien produce el texto y quien lo interpreta. ,2020-01-25 18:12:03.453072-05
+333,Castellano,1-3,ÉTICA DE LA COMUNICACIÓN. Identifico los principales elementos y roles de la comunicación para enriquecer procesos comunicativos auténticos.,Identifico en situaciones comunicativas reales los roles de quien produce y de quien interpreta un texto. ,2020-01-25 18:12:03.453072-05
+334,Castellano,1-3,ÉTICA DE LA COMUNICACIÓN. Identifico los principales elementos y roles de la comunicación para enriquecer procesos comunicativos auténticos.,Identifico la intención de quien produce un texto.,2020-01-25 18:12:03.453072-05
+335,Castellano,4-5,"PRODUCCIÓN TEXTUAL. Produzco textos orales, en situaciones comunicativas que permiten evidenciar el uso significativo de la entonación y la pertinencia articulatoria.","Organizo mis ideas para producir un texto oral, teniendo en cuenta mi realidad y mis propias experiencias. ",2020-01-25 18:12:03.453072-05
+336,Castellano,4-5,"PRODUCCIÓN TEXTUAL. Produzco textos orales, en situaciones comunicativas que permiten evidenciar el uso significativo de la entonación y la pertinencia articulatoria.",Elaboro un plan para la exposición de mis ideas.,2020-01-25 18:12:03.453072-05
+337,Castellano,4-5,"PRODUCCIÓN TEXTUAL. Produzco textos orales, en situaciones comunicativas que permiten evidenciar el uso significativo de la entonación y la pertinencia articulatoria.",Selecciono el léxico apropiado y acomodo mi estilo al plan de exposición así como al contexto comunicativo. ,2020-01-25 18:12:03.453072-05
+338,Castellano,4-5,"PRODUCCIÓN TEXTUAL. Produzco textos orales, en situaciones comunicativas que permiten evidenciar el uso significativo de la entonación y la pertinencia articulatoria.",Adecuo la entonación y la pronunciación a las exigencias de las situaciones comunicativas en que participo. ,2020-01-25 18:12:03.453072-05
+339,Castellano,4-5,"PRODUCCIÓN TEXTUAL. Produzco textos orales, en situaciones comunicativas que permiten evidenciar el uso significativo de la entonación y la pertinencia articulatoria.","Produzco un texto oral, teniendo en cuenta la entonación, la articulación y la organización de ideas que requiere la situación comunicativa.",2020-01-25 18:12:03.453072-05
+340,Castellano,4-5,PRODUCCIÓN TEXTUAL. Produzco textos escritos que responden a diversas necesidades comunicativas y que siguen un procedimiento estratégico para su elaboración.,"Elijo un tema para producir un texto escrito, teniendo en cuenta un propósito, las características del interlocutor y las exigencias del contexto. ",2020-01-25 18:12:03.453072-05
+341,Castellano,4-5,PRODUCCIÓN TEXTUAL. Produzco textos escritos que responden a diversas necesidades comunicativas y que siguen un procedimiento estratégico para su elaboración.,Diseño un plan para elaborar un texto informativo.,2020-01-25 18:12:03.453072-05
+342,Castellano,4-5,PRODUCCIÓN TEXTUAL. Produzco textos escritos que responden a diversas necesidades comunicativas y que siguen un procedimiento estratégico para su elaboración.,"Produzco la primera versión de un texto informativo, atendiendo a requerimientos (formales y conceptuales) de la producción escrita en lengua castellana, con énfasis en algunos aspectos gramaticales (concordancia, tiempos verbales, nombres, pronombres, entre otros) y ortográficos. ",2020-01-25 18:12:03.453072-05
+343,Castellano,4-5,PRODUCCIÓN TEXTUAL. Produzco textos escritos que responden a diversas necesidades comunicativas y que siguen un procedimiento estratégico para su elaboración.,Reescribo el texto a partir de las propuestas de corrección formuladas por mis compañeros y por mí.,2020-01-25 18:12:03.453072-05
+344,Castellano,4-5,"COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo diversos tipos de texto, utilizando algunas estrategias de búsqueda, organización y almacenamiento de la información.","Leo diversos tipos de texto: descriptivo, informativo, narrativo, explicativo y argumentativo. ",2020-01-25 18:12:03.453072-05
+345,Castellano,4-5,"COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo diversos tipos de texto, utilizando algunas estrategias de búsqueda, organización y almacenamiento de la información.","Comprendo los aspectos formales y conceptuales (en especial: características de las oraciones y formas de relación entre ellas), al interior de cada texto leído. ",2020-01-25 18:12:03.453072-05
+346,Castellano,4-5,"COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo diversos tipos de texto, utilizando algunas estrategias de búsqueda, organización y almacenamiento de la información.",Identifico la intención comunicativa de cada uno de los textos leídos. ,2020-01-25 18:12:03.453072-05
+347,Castellano,4-5,"COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo diversos tipos de texto, utilizando algunas estrategias de búsqueda, organización y almacenamiento de la información.","Determino algunas estrategias para buscar, seleccionar y almacenar información: resúmenes, cuadros sinópticos, mapas conceptuales y fi chas. ",2020-01-25 18:12:03.453072-05
+348,Castellano,4-5,"COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo diversos tipos de texto, utilizando algunas estrategias de búsqueda, organización y almacenamiento de la información.","Establezco diferencias y semejanzas entre las estrategias de búsqueda, selección y almacenamiento de información. ",2020-01-25 18:12:03.453072-05
+349,Castellano,4-5,"COMPRENSIÓN E INTERPRETACIÓN TEXTUAL. Comprendo diversos tipos de texto, utilizando algunas estrategias de búsqueda, organización y almacenamiento de la información.","Utilizo estrategias de búsqueda, selección y almacenamiento de información para mis procesos de producción y comprensión textual.",2020-01-25 18:12:03.453072-05
+350,Castellano,4-5,"LITERATURA. Elaboro hipótesis de lectura acerca de las relaciones entre los elementos constitutivos de un texto literario, y entre éste y el contexto.","Leo diversos tipos de texto literario: relatos mitológicos, leyendas, cuentos, fábulas, poemas y obras teatrales. ",2020-01-25 18:12:03.453072-05
+351,Castellano,4-5,"LITERATURA. Elaboro hipótesis de lectura acerca de las relaciones entre los elementos constitutivos de un texto literario, y entre éste y el contexto.","Reconozco, en los textos literarios que leo, elementos tales como tiempo, espacio, acción, personajes. ",2020-01-25 18:12:03.453072-05
+352,Castellano,4-5,"LITERATURA. Elaboro hipótesis de lectura acerca de las relaciones entre los elementos constitutivos de un texto literario, y entre éste y el contexto.","Propongo hipótesis predictivas acerca de un texto literario, partiendo de aspectos como título, tipo de texto, época de la producción, etc. ",2020-01-25 18:12:03.453072-05
+353,Castellano,4-5,"LITERATURA. Elaboro hipótesis de lectura acerca de las relaciones entre los elementos constitutivos de un texto literario, y entre éste y el contexto.","Relaciono las hipótesis predictivas que surgen de los textos que leo, con su contexto y con otros textos, sean literarios o no. ",2020-01-25 18:12:03.453072-05
+354,Castellano,4-5,"LITERATURA. Elaboro hipótesis de lectura acerca de las relaciones entre los elementos constitutivos de un texto literario, y entre éste y el contexto.","Comparo textos narrativos, líricos y dramáticos, teniendo en cuenta algunos de sus elementos constitutivos.",2020-01-25 18:12:03.453072-05
+355,Castellano,4-5,"MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo los medios de comunicación masiva y selecciono la información que emiten, para utilizarla en la creación de nuevos textos.",Reconozco las características de los diferentes medios de comunicación masiva. ,2020-01-25 18:12:03.453072-05
+356,Castellano,4-5,"MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo los medios de comunicación masiva y selecciono la información que emiten, para utilizarla en la creación de nuevos textos.",Selecciono y clasifico la información emitida por los diferentes medios de comunicación. ,2020-01-25 18:12:03.453072-05
+357,Castellano,4-5,"MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo los medios de comunicación masiva y selecciono la información que emiten, para utilizarla en la creación de nuevos textos.",Elaboro planes textuales con la información seleccionada de los medios de comunicación. ,2020-01-25 18:12:03.453072-05
+358,Castellano,4-5,"MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo los medios de comunicación masiva y selecciono la información que emiten, para utilizarla en la creación de nuevos textos.",Produzco textos orales y escritos con base en planes en los que utilizo la información recogida de los medios. ,2020-01-25 18:12:03.453072-05
+359,Castellano,4-5,"MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo los medios de comunicación masiva y selecciono la información que emiten, para utilizarla en la creación de nuevos textos.","Socializo, analizo y corrijo los textos producidos con base en la información tomada de los medios de comunicación masiva.",2020-01-25 18:12:03.453072-05
+360,Castellano,4-5,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo el funcionamiento de algunos códigos no verbales con miras a su uso en situaciones comunicativas auténticas.,Entiendo las obras no verbales como productos de las comunidades humanas. ,2020-01-25 18:12:03.453072-05
+361,Castellano,4-5,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo el funcionamiento de algunos códigos no verbales con miras a su uso en situaciones comunicativas auténticas.,Doy cuenta de algunas estrategias empleadas para comunicar a través del lenguaje no verbal. ,2020-01-25 18:12:03.453072-05
+362,Castellano,4-5,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo el funcionamiento de algunos códigos no verbales con miras a su uso en situaciones comunicativas auténticas.,"Explico el sentido que tienen mensajes no verbales en mi contexto: señales de tránsito, indicios, banderas, colores, etc. ",2020-01-25 18:12:03.453072-05
+363,Castellano,4-5,MEDIOS DE COMUNICACIÓN Y OTROS SISTEMAS SIMBÓLICOS. Caracterizo el funcionamiento de algunos códigos no verbales con miras a su uso en situaciones comunicativas auténticas.,Reconozco y uso códigos no verbales en situaciones comunicativas auténticas.,2020-01-25 18:12:03.453072-05
+364,Castellano,4-5,"ÉTICA DE LA COMUNICACIÓN.  Conozco y analizo los elementos, roles, relaciones y reglas básicas de la comunicación, para inferir las intenciones y expectativas de mis interlocutores y hacer más eficaces mis procesos comunicativos. Se ha habilitado la compatibilidad con lectores de pantalla.     ","Identifico los elementos constitutivos de la comunicación: interlocutores, código, canal, mensaje y contextos. ",2020-01-25 18:12:03.453072-05
+365,Castellano,4-5,"ÉTICA DE LA COMUNICACIÓN.  Conozco y analizo los elementos, roles, relaciones y reglas básicas de la comunicación, para inferir las intenciones y expectativas de mis interlocutores y hacer más eficaces mis procesos comunicativos. Se ha habilitado la compatibilidad con lectores de pantalla.     ",Caracterizo los roles desempeñados por los sujetos que participan del proceso comunicativo. ,2020-01-25 18:12:03.453072-05
+366,Castellano,4-5,"ÉTICA DE LA COMUNICACIÓN.  Conozco y analizo los elementos, roles, relaciones y reglas básicas de la comunicación, para inferir las intenciones y expectativas de mis interlocutores y hacer más eficaces mis procesos comunicativos. Se ha habilitado la compatibilidad con lectores de pantalla.     ","Tengo en cuenta, en mis interacciones comunicativas, principios básicos de la comunicación: reconocimiento del otro en tanto interlocutor válido y respeto por los turnos conversacionales.",2020-01-25 18:12:03.453072-05
+367,Castellano,4-5,"ÉTICA DE LA COMUNICACIÓN.  Conozco y analizo los elementos, roles, relaciones y reglas básicas de la comunicación, para inferir las intenciones y expectativas de mis interlocutores y hacer más eficaces mis procesos comunicativos. Se ha habilitado la compatibilidad con lectores de pantalla.     ","Identificó  en situaciones comunicativas reales los roles, las intenciones de los interlocutores y el respeto por los principios básicos de la comunicación.",2020-01-25 18:12:03.453072-05
+368,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Reconozco significados del número en diferentes contextos (medición, conteo, comparación, codificación, localización entre otros).",2020-01-25 18:12:03.453072-05
+369,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Describo, comparo y cuantifico situaciones con números, en diferentes contextos y con diversas representaciones.",2020-01-25 18:12:03.453072-05
+370,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Describo situaciones que requieren el uso de medidas relativas.,2020-01-25 18:12:03.453072-05
+371,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Describo situaciones de medición utilizando fracciones comunes.,2020-01-25 18:12:03.453072-05
+372,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Uso representaciones –principalmente concretas y pictóricas para explicar el valor de posición en el sistema de numeración decimal.,2020-01-25 18:12:03.453072-05
+373,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Uso representaciones –principalmente concretas y pictóricas para realizar equivalencias de un número en las diferentes unidades del sistema decimal.,2020-01-25 18:12:03.453072-05
+374,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Reconozco propiedades de los números (ser par, ser impar, etc.) y relaciones entre ellos (ser mayor que, ser menor que, ser múltiplo de, ser divisible por, etc.) en diferentes contextos.",2020-01-25 18:12:03.453072-05
+375,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Resuelvo y formulo problemas en situaciones aditivas de composición y de transformación.,2020-01-25 18:12:03.453072-05
+376,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Resuelvo y formulo problemas en situaciones de variación proporcional.,2020-01-25 18:12:03.453072-05
+377,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para resolver problemas en situaciones aditivas y multiplicativas.,2020-01-25 18:12:03.453072-05
+378,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Identifico, si a la luz de los datos de un problema, los resultados obtenidos son o no razonables.",2020-01-25 18:12:03.453072-05
+379,Matemáticas,1-3,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Identifico regularidades y propiedades de los números utilizando diferentes instrumentos de cálculo (calculadoras, ábacos, bloques multi base, etc.)",2020-01-25 18:12:03.453072-05
+380,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Diferencio atributos y propiedades de objetos tridimensionales.,2020-01-25 18:12:03.453072-05
+381,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Dibujo y describo cuerpos o figuras tridimensionales en distintas posiciones y tamaños.,2020-01-25 18:12:03.453072-05
+382,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,"Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en distintos contextos y su condición relativa con respecto a diferentes sistemas de referencia.",2020-01-25 18:12:03.453072-05
+383,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Represento el espacio circundante para establecer relaciones espaciales.,2020-01-25 18:12:03.453072-05
+384,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Reconozco y aplico traslaciones y giros sobre una figura.,2020-01-25 18:12:03.453072-05
+385,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Reconozco y valoro simetrías en distintos aspectos del arte y el diseño.,2020-01-25 18:12:03.453072-05
+386,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,"Reconozco congruencia y semejanza entre figuras (ampliar, reducir).",2020-01-25 18:12:03.453072-05
+387,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Realizo construcciones y diseños utilizando cuerpos y figuras geométricas tridimensionales y dibujos o figuras geométricas bidimensionales.,2020-01-25 18:12:03.453072-05
+388,Matemáticas,1-3,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,"Desarrollo habilidades para relacionar dirección, distancia y posición en el espacio.",2020-01-25 18:12:03.453072-05
+389,Matemáticas,1-3,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Reconozco en los objetos propiedades o atributos que se puedan medir(longitud, área, volumen, capacidad, peso y masa) y, en los eventos, su duración.",2020-01-25 18:12:03.453072-05
+390,Matemáticas,1-3,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,Comparo y ordeno objetos respecto a atributos medibles.,2020-01-25 18:12:03.453072-05
+391,Matemáticas,1-3,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Realizo y describo procesos de medición con patrones arbitrarios y algunos estandarizados, de acuerdo al contexto.",2020-01-25 18:12:03.453072-05
+392,Matemáticas,1-3,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,Analizo y explico sobre la pertinencia de patrones e instrumentos en procesos de medición.,2020-01-25 18:12:03.453072-05
+393,Matemáticas,1-3,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Realizo estimaciones de medidas requeridas en la resolución de problemas relativos particularmente a la vida social, económica y de las ciencias.",2020-01-25 18:12:03.453072-05
+394,Matemáticas,1-3,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,Reconozco el uso de las magnitudes y sus unidades de medida en situaciones aditivas y multiplicativas.,2020-01-25 18:12:03.453072-05
+395,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Clasifico y organizo datos de acuerdo a cualidades y atributos y los presento en tablas.,2020-01-25 18:12:03.453072-05
+396,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Interpreto cualitativamente datos referidos a situaciones del entorno escolar.,2020-01-25 18:12:03.453072-05
+397,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Describo situaciones o eventos a partir de un conjunto de datos.,2020-01-25 18:12:03.453072-05
+398,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,"Represento datos relativos a mi entorno usando objetos concretos, pictogramas y diagramas de barras.",2020-01-25 18:12:03.453072-05
+399,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Identifico regularidades y tendencias en un conjunto de datos.,2020-01-25 18:12:03.453072-05
+400,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Explico –desde mi experiencia– la posibilidad o imposibilidad de ocurrencia de eventos cotidianos.,2020-01-25 18:12:03.453072-05
+401,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Predigo si la posibilidad de ocurrencia de un evento es mayor que la de otro.,2020-01-25 18:12:03.453072-05
+402,Matemáticas,1-3,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Resuelvo y formulo preguntas que requieran para su solución coleccionar y analizar datos del entorno próximo.,2020-01-25 18:12:03.453072-05
+403,Matemáticas,1-3,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,"Reconozco y describo regularidades y patrones en distintos contextos (numérico, geométrico, musical, entre otros).",2020-01-25 18:12:03.453072-05
+404,Matemáticas,1-3,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,"Describo cualitativamente situaciones de cambio y variación utilizando el lenguaje natural, dibujos y gráficas.",2020-01-25 18:12:03.453072-05
+405,Matemáticas,1-3,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,Reconozco y genero equivalencias entre expresiones numéricas y describo cómo cambian los símbolos aunque el valor siga igual.,2020-01-25 18:12:03.453072-05
+406,Matemáticas,1-3,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,Construyo secuencias numéricas y geométricas utilizando propiedades de los números y de las figuras geométricas.,2020-01-25 18:12:03.453072-05
+407,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Interpreto las fracciones en diferentes contextos: situaciones de medición, relaciones parte todo, cociente, razones y proporciones.",2020-01-25 18:12:03.453072-05
+408,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Identifico y uso medidas relativas en distintos contextos.,2020-01-25 18:12:03.453072-05
+409,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Utilizo la notación decimal para expresar fracciones en diferentes contextos y relaciono estas dos notaciones con la de los porcentajes.,2020-01-25 18:12:03.453072-05
+410,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Justifico el valor de posición en el sistema de numeración decimal en relación con el conteo recurrente de unidades.,2020-01-25 18:12:03.453072-05
+411,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Resuelvo y formulo problemas cuya estrategia de solución requiera de las relaciones y propiedades de los números naturales y sus operaciones.,2020-01-25 18:12:03.453072-05
+412,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Resuelvo y formulo problemas en situaciones aditivas de composición, transformación, comparación e igualación.",2020-01-25 18:12:03.453072-05
+413,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Resuelvo y formulo problemas en situaciones de proporcionalidad directa, inversa y producto de medidas.",2020-01-25 18:12:03.453072-05
+414,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Identifico la potenciación y la radicación en contextos matemáticos y no matemáticos.,2020-01-25 18:12:03.453072-05
+415,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Modelo situaciones de dependencia mediante la proporcionalidad directa e inversa.,2020-01-25 18:12:03.453072-05
+416,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,Uso diversas estrategias de cálculo y de estimación para resolver problemas en situaciones aditivas y multiplicativas.,2020-01-25 18:12:03.453072-05
+417,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Identifico, en el contexto de una situación, la necesidad de un cálculo exacto o aproximado y lo razonable de los resultados obtenidos.",2020-01-25 18:12:03.453072-05
+418,Matemáticas,4-5,PENSAMIENTO NUMÉRICO Y SISTEMAS NUMÉRICOS ,"Justifico regularidades y propiedades de los números, sus relaciones y operaciones.",2020-01-25 18:12:03.453072-05
+419,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,"Comparo y clasifico objetos tridimensionales de acuerdo con componentes (caras, lados) y propiedades.",2020-01-25 18:12:03.453072-05
+420,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,"Comparo y clasifico figuras bidimensionales de acuerdo con sus componentes (ángulos, vértices) y características.",2020-01-25 18:12:03.453072-05
+421,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,"Identifico, represento y utilizo ángulos en giros, aberturas, inclinaciones, figuras, puntas y esquinas en situaciones estáticas y dinámicas.",2020-01-25 18:12:03.453072-05
+422,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Utilizo sistemas de coordenadas para especificar localizaciones y describir relaciones espaciales.,2020-01-25 18:12:03.453072-05
+423,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Identifico y justifico relaciones de congruencia y semejanza entre figuras.,2020-01-25 18:12:03.453072-05
+424,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Construyo y descompongo figuras y sólidos a partir de condiciones dadas.,2020-01-25 18:12:03.453072-05
+425,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,Conjeturo y verifico los resultados de aplicar transformaciones a figuras en el plano para construir diseños.,2020-01-25 18:12:03.453072-05
+426,Matemáticas,4-5,PENSAMIENTO ESPACIAL Y SISTEMAS GEOMÉTRICOS,"Construyo objetos tridimensionales a partir de representaciones bidimensionales y puedo realizar el proceso contrario en contextos de arte, diseño y arquitectura.",2020-01-25 18:12:03.453072-05
+427,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Diferencio y ordeno, en objetos y eventos, propiedades o atributos que se puedan medir (longitudes, distancias, áreas de superficies, volúmenes de cuerpos sólidos, volúmenes de líquidos y capacidades de recipientes; pesos y masa de cuerpos",2020-01-25 18:12:03.453072-05
+428,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,Sólidos; duración de eventos o procesos; amplitud de ángulos).,2020-01-25 18:12:03.453072-05
+429,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Selecciono unidades, tanto convencionales como estandarizadas, apropiadas para diferentes mediciones.",2020-01-25 18:12:03.453072-05
+430,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Utilizo y justifico el uso de la estimación para resolver problemas relativos a la vida social, económica y de las ciencias, utilizando rangos de variación.",2020-01-25 18:12:03.453072-05
+431,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,Utilizo diferentes procedimientos de cálculo para hallar el área de la superficie exterior y el volumen de algunos cuerpos sólidos.,2020-01-25 18:12:03.453072-05
+432,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Justifico relaciones de dependencia del área y volumen, respecto a las dimensiones de figuras y sólidos.",2020-01-25 18:12:03.453072-05
+433,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Reconozco el uso de algunas magnitudes (longitud, área, volumen, capacidad, peso y masa, duración, rapidez, temperatura) y de algunas de las unidades que se usan para medir cantidades de la magnitud respectiva en situaciones aditivas y multiplicativas.",2020-01-25 18:12:03.453072-05
+434,Matemáticas,4-5,PENSAMIENTO MÉTRICO Y SISTEMAS DE MEDIDAS,"Describo y argumento relaciones entre el perímetro y el área de fi guras diferentes, cuando se fija una de estas medidas.",2020-01-25 18:12:03.453072-05
+435,Matemáticas,4-5,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,"Represento datos usando tablas y gráficas (pictogramas, gráficas de barras, diagramas de líneas, diagramas circulares).",2020-01-25 18:12:03.453072-05
+436,Matemáticas,4-5,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Comparo diferentes representaciones del mismo conjunto de datos.,2020-01-25 18:12:03.453072-05
+437,Matemáticas,4-5,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,"Interpreto información presentada en tablas y gráficas. (Pictogramas, gráficas  de barras, diagramas de líneas, diagramas circulares).",2020-01-25 18:12:03.453072-05
+438,Matemáticas,4-5,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Conjeturo y pongo a prueba predicciones acerca de la posibilidad de ocurrencia de eventos.,2020-01-25 18:12:03.453072-05
+439,Matemáticas,4-5,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Describo la manera como parecen distribuirse los distintos datos de un conjunto de ellos y la comparo con la manera como se distribuyen en otros conjuntos de datos.,2020-01-25 18:12:03.453072-05
+440,Matemáticas,4-5,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,Uso e interpreto la media (o promedio) y la mediana y comparo lo que indican.,2020-01-25 18:12:03.453072-05
+441,Matemáticas,4-5,PENSAMIENTO ALEATORIO Y SISTEMAS DE DATOS,"Resuelvo y formulo problemas a partir de un conjunto de datos provenientes de observaciones, consultas o experimentos.",2020-01-25 18:12:03.453072-05
+442,Matemáticas,4-5,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,Describo e interpreto variaciones representadas en gráficos.,2020-01-25 18:12:03.453072-05
+443,Matemáticas,4-5,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,"Predigo patrones de variación en una secuencia numérica, geométrica o gráfica.",2020-01-25 18:12:03.453072-05
+444,Matemáticas,4-5,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,Represento y relaciono patrones numéricos con tablas y reglas verbales.,2020-01-25 18:12:03.453072-05
+445,Matemáticas,4-5,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,"Analizo y explico relaciones de dependencia entre cantidades que varían en el tiempo con cierta regularidad en situaciones económicas, sociales y de las ciencias naturales.",2020-01-25 18:12:03.453072-05
+446,Matemáticas,4-5,PENSAMIENTO VARIACIONAL Y SISTEMAS ALGEBRAICOS Y ANALÍTICOS,Construyo igualdades y desigualdades numéricas como representación de relaciones entre distintos datos.,2020-01-25 18:12:03.453072-05
