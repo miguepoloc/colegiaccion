@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'apps.main',
     'apps.plan_de_accion',
     'apps.institucion',
-    'apps.api'
+    'apps.api',
+    'apps.noticias'
 ]
 
 MIDDLEWARE = [

@@ -14,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
-    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 16px;
     background-color: #fff;
     position: relative;
@@ -46,7 +46,7 @@ video {
 }
 
 .titles {
-    font-family: 'Fjalla One', sans-serif;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .center-box {
@@ -134,7 +134,7 @@ video {
     line-height: 50px;
     text-align: center;
     font-size: 24px;
-    font-family: 'Fjalla One', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     width: 35%;
     position: absolute;
     top: 0;
@@ -185,6 +185,35 @@ video {
     outline: none;
     text-decoration: none;
 }
+
+
+.logo a {
+    position: relative;
+    text-align: center;
+    color: #fff;
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    padding: 0 5px;
+    cursor: pointer;
+    display: block;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.logo a:active,
+.logo a:focus {
+    outline: none;
+    text-decoration: none;
+}
+
+.logo a:hover {
+    color: #F1E900;
+    text-decoration: none;
+}
+
 
 .navigation ul li a:hover {
     color: #F1E900;
