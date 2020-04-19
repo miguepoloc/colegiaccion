@@ -24,14 +24,17 @@
     <header class="full-reset header">
         <!--======================================== Logo(Nombre INS) ========================================-->
         <div class="full-reset logo">
-            <span class="d-md-none">INEM</span>
-            <span class="d-md-inline d-none">INEM Simón Bolívar</span>
+            <a href="{% url 'index' %}">
+                <span class="d-md-none">INEM</span>
+                <span class="d-md-inline d-none">INEM Simón Bolívar</span>
+            </a>
         </div>
         <!--======================================== Links de navegación ========================================-->
         <nav class="full-reset navigation">
             <ul class="full-reset list-unstyled">
                 <li><a href="{% url 'index' %}">Inicio</a></li>
                 <li><a href="{% url 'institucion' %}">Institución</a></li>
+                <li><a href="{% url 'noticias' %}">Noticias</a></li>
                 <li><a href="{% url 'secretaria' %}">Secretaría</a></li>
                 <li><a href="{% url 'bachilleratos' %}">Bachilleratos</a></li>
                 <li><a href="{% url 'galeria' %}">Galería</a></li>
